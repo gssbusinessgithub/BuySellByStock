@@ -12,10 +12,8 @@ Applied Materials,AMAT,Information Technology,Semiconductor Materials & Equipmen
 AppLovin,APP,Information Technology,
 Aramark,ARMK,Consumer Discretionary,
 Arrow Electronics,ARW,Information Technology,Technology Distributors
-Arthur J. Gallagher & Co.,AJG,Financials,Insurance Brokers
 Avnet,AVT,Information Technology,Technology Distributors
 Bentley,BSY,Information Technology,
-Boston Scientific,BSX,Health Care,Health Care Equipment
 Broadcom,AVGO,Information Technology,Semiconductors
 Builders FirstSource,BLDR,Industrials,Building Products
 Cadence,CDNS,Information Technology,Application Software
@@ -23,6 +21,7 @@ Cardinal Health,CAH,Health Care,Health Care Distributors
 CCC Intelligent Solutions,CCCS,Information Technology,
 Cognex,CGNX,Information Technology,Electronic Equipment & Instruments
 "Confluent, Inc.",CFLT,Information Technology,
+Constellation Brands,STZ,Consumer Staples,Distillers & Vintners
 Constellation Energy,CEG,Utilities,Multi-Utilities
 Copa Holdings,CPA,Industrials,
 Copart,CPRT,Industrials,Diversified Support Services
@@ -48,6 +47,7 @@ First Citizens BancShares,FCNCA,Financials,
 Fortinet,FTNT,Information Technology,Systems Software
 Gartner,IT,Information Technology,IT Consulting & Other Services
 GE,GE,Industrials,Industrial Conglomerates
+Globant,GLOB,Information Technology,
 GXO Logistics,GXO,Industrials,Air Freight & Logistics
 Hubbell,HUBB,Industrials,Industrial Machinery & Supplies & Components
 HubSpot,HUBS,Information Technology,
@@ -56,7 +56,6 @@ Ionis,IONS,Health Care,
 Jabil,JBL,Information Technology,Electronic Manufacturing Services
 KLA,KLAC,Information Technology,Semiconductor Materials & Equipment
 Lam Research,LRCX,Information Technology,Semiconductor Materials & Equipment
-Lilly,LLY,Health Care,Pharmaceuticals
 Live Nation Entertainment,LYV,Communication Services,Movies & Entertainment
 Manhattan Associates,MANH,Information Technology,
 Martin Marietta,MLM,Materials,Construction Materials
@@ -73,8 +72,6 @@ Monster Beverage,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
 MSC Industrial Direct,MSM,Industrials,Trading Companies & Distributors
 Netflix,NFLX,Communication Services,Movies & Entertainment
 New Relic,NEWR,Information Technology,
-New York Community Bank,NYCB,Financials,Thrifts & Mortgage Finance
-Novocure,NVCR,Health Care,
 Nutanix,NTNX,Information Technology,
 Nvidia,NVDA,Information Technology,Semiconductors
 Oracle,ORCL,Information Technology,Application Software
@@ -87,17 +84,19 @@ PulteGroup,PHM,Consumer Discretionary,Homebuilding
 Pure Storage,PSTG,Information Technology,
 Quanta,PWR,Industrials,Construction & Engineering
 Range Resources,RRC,Energy,Oil & Gas Exploration & Production
-Republic Services,RSG,Industrials,Environmental & Facilities Services
 Royal Caribbean Cruises,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+RXO,RXO,Industrials,Cargo Ground Transportation
 Ryan Specialty,RYAN,Financials,
 Salesforce,CRM,Information Technology,Application Software
 ServiceNow,NOW,Information Technology,Systems Software
 Snowflake,SNOW,Information Technology,
+Splunk,SPLK,Information Technology,Application Software
 Spotify,SPOT,Communication Services,
 Synopsys,SNPS,Information Technology,Application Software
 Take-Two Interactive,TTWO,Communication Services,Interactive Home Entertainment
 Teradata,TDC,Information Technology,IT Consulting & Other Services
 Toll Brothers,TOL,Consumer Discretionary,Homebuilding
+Trade Desk (The),TTD,Information Technology,
 Transdigm,TDG,Industrials,Aerospace & Defense
 TransUnion,TRU,Industrials,
 U-Haul (Series N),UHAL.B,Industrials,

@@ -9,11 +9,10 @@ AMD,AMD,Information Technology,Semiconductors
 AmerisourceBergen,ABC,Health Care,Health Care Distributors
 Apple Inc.,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals"
 Applied Materials,AMAT,Information Technology,Semiconductor Materials & Equipment
-Arthur J. Gallagher & Co.,AJG,Financials,Insurance Brokers
-Boston Scientific,BSX,Health Care,Health Care Equipment
 Broadcom Inc.,AVGO,Information Technology,Semiconductors
 Cadence Design Systems,CDNS,Information Technology,Application Software
 Cardinal Health,CAH,Health Care,Health Care Distributors
+Constellation Brands,STZ,Consumer Staples,Distillers & Vintners
 Constellation Energy,CEG,Utilities,Multi-Utilities
 Copart,CPRT,Industrials,Diversified Support Services
 CoStar Group,CSGP,Industrials,Research & Consulting Services
@@ -21,7 +20,6 @@ D.R. Horton,DHI,Consumer Discretionary,Homebuilding
 Darden Restaurants,DRI,Consumer Discretionary,Restaurants
 DaVita Inc.,DVA,Health Care,Health Care Facilities
 Dollar Tree,DLTR,Consumer Staples,Consumer Staples Merchandise Retail
-Eli Lilly and Company,LLY,Health Care,Pharmaceuticals
 Fair Isaac,FICO,Information Technology,Application Software
 Fortinet,FTNT,Information Technology,Systems Software
 Gartner,IT,Information Technology,IT Consulting & Other Services
@@ -39,10 +37,10 @@ Monster Beverage,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
 Netflix,NFLX,Communication Services,Movies & Entertainment
 Nvidia,NVDA,Information Technology,Semiconductors
 Oracle Corporation,ORCL,Information Technology,Application Software
+Palo Alto Networks,PANW,Information Technology,Cybersecurity Company
 PTC,PTC,Information Technology,Application Software
 PulteGroup,PHM,Consumer Discretionary,Homebuilding
 Quanta Services,PWR,Industrials,Construction & Engineering
-Republic Services,RSG,Industrials,Environmental & Facilities Services
 Royal Caribbean Group,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 Salesforce,CRM,Information Technology,Application Software
 ServiceNow,NOW,Information Technology,Systems Software
