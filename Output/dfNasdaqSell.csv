@@ -1,31 +1,31 @@
-Company,Ticker,Sector,Sub-Industry
-Adobe Inc.,ADBE,Information Technology,Application Software
-Alphabet Inc. (Class A),GOOGL,Communication Services,Interactive Media & Services
-Alphabet Inc. (Class C),GOOG,Communication Services,Interactive Media & Services
-Amazon,AMZN,Consumer Discretionary,Internet & Direct Marketing Retail
-Advanced Micro Devices Inc.,AMD,Information Technology,Semiconductors
-Apple Inc.,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals"
-Applied Materials,AMAT,Information Technology,Semiconductor Equipment
-ASML Holding,ASML,Information Technology,Semiconductor Equipment
-Broadcom Inc.,AVGO,Information Technology,Semiconductors
-Cadence Design Systems,CDNS,Information Technology,Application Software
-Constellation Energy,CEG,Utilities,Multi-Utilities
-Copart,CPRT,Industrials,Diversified Support Services
-CoStar Group,CSGP,Industrials,Research & Consulting Services
-CrowdStrike,CRWD,Information Technology,Application Software
-Datadog,DDOG,Information Technology,Application Software
-Dollar Tree,DLTR,Consumer Discretionary,General Merchandise Stores
-Fortinet,FTNT,Information Technology,Systems Software
-KLA Corporation,KLAC,Information Technology,Semiconductor Equipment
-Lam Research,LRCX,Information Technology,Semiconductor Equipment
-Marvell Technology,MRVL,Information Technology,Application Software
-Meta Platforms,META,Communication Services,Interactive Media & Services
-Micron Technology,MU,Information Technology,Semiconductors
-Microsoft,MSFT,Information Technology,Systems Software
-Monster Beverage,MNST,Consumer Staples,Soft Drinks
-Netflix,NFLX,Communication Services,Movies & Entertainment
-Nvidia,NVDA,Information Technology,Semiconductors
-Palo Alto Networks,PANW,Information Technology,Application Software
-Synopsys,SNPS,Information Technology,Application Software
-Verisk,VRSK,Industrials,Research & Consulting Services
-"Workday, Inc.",WDAY,Information Technology,Application Software
+Company,Ticker,Industry,Index Weighting
+"[<th scope=""row""><a href=""/wiki/3M"" title=""3M"">3M</a>
+</th>]",MMM,Conglomerate,2.41%
+"[<th scope=""row""><a href=""/wiki/Amgen"" title=""Amgen"">Amgen</a>
+</th>]",AMGN,Biopharmaceutical,5.48%
+"[<th scope=""row""><a href=""/wiki/Caterpillar_Inc."" title=""Caterpillar Inc."">Caterpillar</a>
+</th>]",CAT,Construction and Mining,4.52%
+"[<th scope=""row""><a href=""/wiki/Chevron_Corporation"" title=""Chevron Corporation"">Chevron</a>
+</th>]",CVX,Petroleum industry,3.50%
+"[<th scope=""row""><a href=""/wiki/The_Coca-Cola_Company"" title=""The Coca-Cola Company"">Coca-Cola</a>
+</th>]",KO,Drink industry,1.22%
+"[<th scope=""row""><a href=""/wiki/The_Walt_Disney_Company"" title=""The Walt Disney Company"">Disney</a>
+</th>]",DIS,Broadcasting and entertainment,1.89%
+"[<th scope=""row""><a href=""/wiki/Honeywell"" title=""Honeywell"">Honeywell</a>
+</th>]",HON,Conglomerate,4.17%
+"[<th scope=""row""><a href=""/wiki/Johnson_%26_Johnson"" title=""Johnson &amp; Johnson"">Johnson &amp; Johnson</a>
+</th>]",JNJ,Pharmaceutical industry,3.43%
+"[<th scope=""row""><a href=""/wiki/McDonald%27s"" title=""McDonald's"">McDonald's</a>
+</th>]",MCD,Food industry,5.24%
+"[<th scope=""row""><a href=""/wiki/Merck_%26_Co."" title=""Merck &amp; Co."">Merck</a>
+</th>]",MRK,Pharmaceutical industry,2.10%
+"[<th scope=""row""><a href=""/wiki/Nike,_Inc."" title=""Nike, Inc."">Nike</a>
+</th>]",NKE,Clothing industry,2.13%
+"[<th scope=""row""><a href=""/wiki/Procter_%26_Gamble"" title=""Procter &amp; Gamble"">Procter &amp; Gamble</a>
+</th>]",PG,Fast-moving consumer goods,2.86%
+"[<th scope=""row""><a href=""/wiki/The_Travelers_Companies"" title=""The Travelers Companies"">Travelers</a>
+</th>]",TRV,Insurance,3.62%
+"[<th scope=""row""><a href=""/wiki/Verizon_Communications"" title=""Verizon Communications"">Verizon</a>
+</th>]",VZ,Telecommunications industry,0.73%
+"[<th scope=""row""><a href=""/wiki/Visa_Inc."" title=""Visa Inc."">Visa</a>
+</th>]",V,Financial services,4.16%
