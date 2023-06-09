@@ -1,24 +1,29 @@
 Company,Ticker,Sector,Sub-Industry
 Accenture,ACN,Information Technology,IT Consulting & Other Services
 Adobe,ADBE,Information Technology,Application Software
+Advanced Drainage Systems,WMS,Industrials,
 Akamai,AKAM,Information Technology,Internet Services & Infrastructure
 Alphabet (Class A),GOOGL,Communication Services,Interactive Media & Services
 Alphabet (Class C),GOOG,Communication Services,Interactive Media & Services
 Amazon,AMZN,Consumer Discretionary,Internet & Direct Marketing Retail
 AMD,AMD,Information Technology,Semiconductors
-AmerisourceBergen,ABC,Health Care,Health Care Distributors
 Apple,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals"
 Applied Materials,AMAT,Information Technology,Semiconductor Materials & Equipment
 AppLovin,APP,Information Technology,
 Aramark,ARMK,Consumer Discretionary,
+Ares,ARES,Financials,
 Arrow Electronics,ARW,Information Technology,Technology Distributors
 Avnet,AVT,Information Technology,Technology Distributors
+Bank OZK,OZK,Financials,Regional Banks
 Bentley,BSY,Information Technology,
+Bill.com,BILL,Information Technology,
+Booz Allen Hamilton,BAH,Industrials,
 Broadcom,AVGO,Information Technology,Semiconductors
-Builders FirstSource,BLDR,Industrials,Building Products
 Cadence,CDNS,Information Technology,Application Software
-Cardinal Health,CAH,Health Care,Health Care Distributors
+Carnival,CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 CCC Intelligent Solutions,CCCS,Information Technology,
+Chemours,CC,Materials,Diversified Chemicals
+Cloudflare,NET,Information Technology,
 Cognex,CGNX,Information Technology,Electronic Equipment & Instruments
 "Confluent, Inc.",CFLT,Information Technology,
 Constellation Brands,STZ,Consumer Staples,Distillers & Vintners
@@ -31,80 +36,71 @@ CrowdStrike,CRWD,Information Technology,Application Software
 D.R. Horton,DHI,Consumer Discretionary,Homebuilding
 Darden Restaurants,DRI,Consumer Discretionary,Restaurants
 Datadog,DDOG,Information Technology,Application Software
-DaVita,DVA,Health Care,Health Care Facilities
 Dell Technologies,DELL,Information Technology,
-Dollar Tree,DLTR,Consumer Staples,Consumer Staples Merchandise Retail
 DoubleVerify,DV,Information Technology,
+DraftKings,DKNG,Consumer Discretionary,
+Dropbox,DBX,Information Technology,
 Dynatrace,DT,Information Technology,
 Eagle Materials,EXP,Materials,Construction Materials
 Elastic,ESTC,Information Technology,
 Entegris,ENTG,Information Technology,
-Euronet Worldwide,EEFT,Financials,Transaction & Payment Processing Services
 Exact Sciences,EXAS,Health Care,
 F&G Annuities & Life,FG,Financials,
 FICO,FICO,Information Technology,Application Software
 First Citizens BancShares,FCNCA,Financials,
-Fortinet,FTNT,Information Technology,Systems Software
+Fiserv,FISV,Financials,Transaction & Payment Processing Services
 Gartner,IT,Information Technology,IT Consulting & Other Services
-GE,GE,Industrials,Industrial Conglomerates
 Globant,GLOB,Information Technology,
 GXO Logistics,GXO,Industrials,Air Freight & Logistics
 Hubbell,HUBB,Industrials,Industrial Machinery & Supplies & Components
 HubSpot,HUBS,Information Technology,
-Ingredion,INGR,Consumer Staples,Agricultural Products & Services
 Ionis,IONS,Health Care,
 Jabil,JBL,Information Technology,Electronic Manufacturing Services
+"KBR, Inc.",KBR,Industrials,Diversified Support Services
 KLA,KLAC,Information Technology,Semiconductor Materials & Equipment
 Lam Research,LRCX,Information Technology,Semiconductor Materials & Equipment
+Lincoln Electric,LECO,Industrials,Industrial Machinery & Supplies & Components
 Live Nation Entertainment,LYV,Communication Services,Movies & Entertainment
 Manhattan Associates,MANH,Information Technology,
-Martin Marietta,MLM,Materials,Construction Materials
 Marvell,MRVL,Information Technology,Application Software
+MasTec,MTZ,Industrials,Construction & Engineering
 MasterBrand,MBC,Industrials,Building Products
-Mastercard,MA,Financials,Transaction & Payment Processing Services
-McKesson,MCK,Health Care,Health Care Distributors
 Meta,META,Communication Services,Interactive Media & Services
-MGIC,MTG,Financials,Reinsurance
 Micron,MU,Information Technology,Semiconductors
 Microsoft,MSFT,Information Technology,Systems Software
+Molson Coors,TAP,Consumer Staples,Brewers
 MongoDB,MDB,Information Technology,
-Monster Beverage,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
-MSC Industrial Direct,MSM,Industrials,Trading Companies & Distributors
+Moody's,MCO,Financials,Financial Exchanges & Data
 Netflix,NFLX,Communication Services,Movies & Entertainment
-New Relic,NEWR,Information Technology,
 Nutanix,NTNX,Information Technology,
 Nvidia,NVDA,Information Technology,Semiconductors
 Oracle,ORCL,Information Technology,Application Software
 Owens Corning,OC,Industrials,Building Products
 Palantir,PLTR,Information Technology,
 Palo Alto Networks,PANW,Information Technology,Application Software
-Penumbra,PEN,Health Care,
+Procore,PCOR,Information Technology,
 PTC,PTC,Information Technology,Application Software
 PulteGroup,PHM,Consumer Discretionary,Homebuilding
 Pure Storage,PSTG,Information Technology,
 Quanta,PWR,Industrials,Construction & Engineering
-Range Resources,RRC,Energy,Oil & Gas Exploration & Production
 Royal Caribbean Cruises,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 RXO,RXO,Industrials,Cargo Ground Transportation
-Ryan Specialty,RYAN,Financials,
 Salesforce,CRM,Information Technology,Application Software
+Sallie Mae,SLM,Financials,Consumer Finance
 ServiceNow,NOW,Information Technology,Systems Software
-Snowflake,SNOW,Information Technology,
+Smartsheet,SMAR,Information Technology,
+SoFi,SOFI,Financials,
 Splunk,SPLK,Information Technology,Application Software
 Spotify,SPOT,Communication Services,
 Synopsys,SNPS,Information Technology,Application Software
 Take-Two Interactive,TTWO,Communication Services,Interactive Home Entertainment
+Tenet Health,THC,Health Care,Health Care Facilities
 Teradata,TDC,Information Technology,IT Consulting & Other Services
+Tesla,TSLA,Consumer Discretionary,Automobile Manufacturers
 Toll Brothers,TOL,Consumer Discretionary,Homebuilding
 Trade Desk (The),TTD,Information Technology,
-Transdigm,TDG,Industrials,Aerospace & Defense
 TransUnion,TRU,Industrials,
 U-Haul (Series N),UHAL.B,Industrials,
-Uber,UBER,Industrials,Passenger Ground Transportation
-Unum,UNM,Financials,Life & Health Insurance
-Upstart,UPST,Financials,
-US Foods,USFD,Consumer Staples,
-Valvoline,VVV,Materials,Commodity Chemicals
 Verisk,VRSK,Industrials,Research & Consulting Services
 Vertiv,VRT,Industrials,
 Viasat,VSAT,Information Technology,Communications Equipment
@@ -113,3 +109,4 @@ VMware,VMW,Information Technology,
 Vontier,VNT,Information Technology,Electronic Equipment & Instruments
 Vulcan Materials,VMC,Materials,Construction Materials
 Workday,WDAY,Information Technology,Application Software
+Zscaler,ZS,Information Technology,Application Software
