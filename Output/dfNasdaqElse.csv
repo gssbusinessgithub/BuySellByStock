@@ -23,6 +23,7 @@ Fastenal,FAST,Industrials,Building Products
 Fortinet,FTNT,Information Technology,Systems Software
 GE HealthCare,GEHC,Health Care,Health Care Technology
 GlobalFoundries,GFS,Information Technology,Semiconductors
+Idexx Laboratories,IDXX,Health Care,Health Care Equipment
 "Illumina, Inc.",ILMN,Health Care,Life Sciences Tools & Services
 Intel,INTC,Information Technology,Semiconductors
 Intuitive Surgical,ISRG,Health Care,Health Care Equipment
@@ -30,7 +31,6 @@ Marriott International,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Line
 MercadoLibre,MELI,Consumer Discretionary,Internet & Direct Marketing Retail
 Microchip Technology,MCHP,Information Technology,Semiconductors
 Moderna,MRNA,Health Care,Biotechnology
-Monster Beverage,MNST,Consumer Staples,Soft Drinks
 NXP,NXPI,Information Technology,Semiconductors
 O'Reilly Automotive,ORLY,Consumer Discretionary,Specialty Stores
 Old Dominion Freight Line,ODFL,Industrials,Trucking
@@ -44,6 +44,7 @@ Seagen,SGEN,Health Care,Biotechnology
 Sirius XM,SIRI,Communication Services,Broadcasting
 T-Mobile US,TMUS,Communication Services,Wireless Telecommunication Services
 Texas Instruments,TXN,Information Technology,Semiconductors
+Verisk,VRSK,Industrials,Research & Consulting Services
 Vertex Pharmaceuticals,VRTX,Health Care,Biotechnology
 Walgreens Boots Alliance,WBA,Consumer Staples,Drug Retail
 Zoom Video Communications,ZM,Information Technology,Application Software

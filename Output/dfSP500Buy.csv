@@ -23,6 +23,7 @@ Boston Scientific,BSX,Health Care,Health Care Equipment
 Bristol Myers Squibb,BMY,Health Care,Pharmaceuticals
 Brown–Forman,BF.B,Consumer Staples,Distillers & Vintners
 C.H. Robinson,CHRW,Industrials,Air Freight & Logistics
+Campbell Soup Company,CPB,Consumer Staples,Packaged Foods & Meats
 Caterpillar Inc.,CAT,Industrials,Construction Machinery & Heavy Transportation Equipment
 Centene Corporation,CNC,Health Care,Managed Health Care
 CF Industries,CF,Materials,Fertilizers & Agricultural Chemicals
@@ -69,13 +70,13 @@ General Dynamics,GD,Industrials,Aerospace & Defense
 Genuine Parts Company,GPC,Consumer Discretionary,Specialty Stores
 Gilead Sciences,GILD,Health Care,Biotechnology
 HCA Healthcare,HCA,Health Care,Health Care Facilities
+Hershey's,HSY,Consumer Staples,Packaged Foods & Meats
 Hilton Worldwide,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 Hologic,HOLX,Health Care,Health Care Equipment
 Honeywell,HON,Industrials,Industrial Conglomerates
 Hormel Foods,HRL,Consumer Staples,Packaged Foods & Meats
 HP Inc.,HPQ,Information Technology,"Technology Hardware, Storage & Peripherals"
 IDEX Corporation,IEX,Industrials,Industrial Machinery & Supplies & Components
-Idexx Laboratories,IDXX,Health Care,Health Care Equipment
 Incyte,INCY,Health Care,Biotechnology
 Insulet,PODD,Health Care,Health Care Equipment
 Intercontinental Exchange,ICE,Financials,Financial Exchanges & Data
@@ -88,7 +89,6 @@ Keurig Dr Pepper,KDP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
 Kimberly-Clark,KMB,Consumer Staples,Household Products
 Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats
 Kroger,KR,Consumer Staples,Food Retail
-Lamb Weston,LW,Consumer Staples,Packaged Foods & Meats
 Las Vegas Sands,LVS,Consumer Discretionary,Casinos & Gaming
 Lennar,LEN,Consumer Discretionary,Homebuilding
 LKQ Corporation,LKQ,Consumer Discretionary,Distributors
@@ -103,6 +103,7 @@ Mohawk Industries,MHK,Consumer Discretionary,Home Furnishings
 Molina Healthcare,MOH,Health Care,Managed Health Care
 Molson Coors Beverage Company,TAP,Consumer Staples,Brewers
 Mondelez International,MDLZ,Consumer Staples,Packaged Foods & Meats
+Monster Beverage,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
 Morgan Stanley,MS,Financials,Investment Banking & Brokerage
 Mosaic Company (The),MOS,Materials,Fertilizers & Agricultural Chemicals
 Motorola Solutions,MSI,Information Technology,Communications Equipment
@@ -132,6 +133,7 @@ Stanley Black & Decker,SWK,Industrials,Industrial Machinery & Supplies & Compone
 Starbucks,SBUX,Consumer Discretionary,Restaurants
 Stryker Corporation,SYK,Health Care,Health Care Equipment
 Sysco,SYY,Consumer Staples,Food Distributors
+Take-Two Interactive,TTWO,Communication Services,Interactive Home Entertainment
 Target Corporation,TGT,Consumer Staples,Consumer Staples Merchandise Retail
 TE Connectivity,TEL,Information Technology,Electronic Manufacturing Services
 Teledyne Technologies,TDY,Information Technology,Electronic Equipment & Instruments

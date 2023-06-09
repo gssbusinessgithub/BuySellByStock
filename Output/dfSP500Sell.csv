@@ -17,17 +17,23 @@ Copart,CPRT,Industrials,Diversified Support Services
 CoStar Group,CSGP,Industrials,Research & Consulting Services
 D.R. Horton,DHI,Consumer Discretionary,Homebuilding
 Darden Restaurants,DRI,Consumer Discretionary,Restaurants
+Delta Air Lines,DAL,Industrials,Passenger Airlines
+Discover Financial,DFS,Financials,Consumer Finance
+EQT,EQT,Energy,Oil & Gas Exploration & Production
+Equifax,EFX,Industrials,Research & Consulting Services
 Fair Isaac,FICO,Information Technology,Application Software
 Gartner,IT,Information Technology,IT Consulting & Other Services
 KLA Corporation,KLAC,Information Technology,Semiconductor Materials & Equipment
 Lam Research,LRCX,Information Technology,Semiconductor Materials & Equipment
 Live Nation Entertainment,LYV,Communication Services,Movies & Entertainment
+Martin Marietta Materials,MLM,Materials,Construction Materials
 Meta Platforms,META,Communication Services,Interactive Media & Services
 Micron Technology,MU,Information Technology,Semiconductors
 Microsoft,MSFT,Information Technology,Systems Software
 Molson Coors Beverage Company,TAP,Consumer Staples,Brewers
 Moody's Corporation,MCO,Financials,Financial Exchanges & Data
 Netflix,NFLX,Communication Services,Movies & Entertainment
+Norwegian Cruise Line Holdings,NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 Nvidia,NVDA,Information Technology,Semiconductors
 Oracle Corporation,ORCL,Information Technology,Application Software
 PTC,PTC,Information Technology,Application Software
@@ -39,5 +45,4 @@ ServiceNow,NOW,Information Technology,Systems Software
 Synopsys,SNPS,Information Technology,Application Software
 Take-Two Interactive,TTWO,Communication Services,Interactive Home Entertainment
 "Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers
-Verisk,VRSK,Industrials,Research & Consulting Services
 Vulcan Materials Company,VMC,Materials,Construction Materials

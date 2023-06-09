@@ -14,6 +14,7 @@ Amgen,AMGN,Health Care,Biotechnology
 Analog Devices,ADI,Information Technology,Semiconductors
 Annaly,NLY,Financials,
 Antero Resources,AR,Energy,
+AppLovin,APP,Information Technology,
 Arch,ACGL,Financials,Reinsurance
 Arthur J. Gallagher & Co.,AJG,Financials,Insurance Brokers
 Ashland,ASH,Materials,Diversified Chemicals
@@ -32,6 +33,7 @@ Boyd Gaming,BYD,Consumer Discretionary,Casinos & Gaming
 Bristol Myers Squibb,BMY,Health Care,Health Care Distributors
 Brown–Forman (Class B),BF.B,Consumer Staples,Distillers & Vintners
 C.H. Robinson,CHRW,Industrials,Air Freight & Logistics
+Campbell's,CPB,Consumer Staples,Packaged Foods & Meats
 Carter's,CRI,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
 Caterpillar,CAT,Industrials,Construction Machinery & Heavy Transportation Equipment
 Centene,CNC,Health Care,Managed Health Care
@@ -92,7 +94,6 @@ Flowers Foods,FLO,Consumer Staples,Packaged Foods & Meats
 FMC,FMC,Materials,Fertilizers & Agricultural Chemicals
 Fortune Brands Innovations,FBIN,Industrials,Building Products
 Freeport-McMoRan,FCX,Materials,Copper
-Gates,GTES,Industrials,
 General Dynamics,GD,Industrials,Aerospace & Defense
 Gentex,GNTX,Consumer Discretionary,Automotive Parts & Equipment
 Genuine Parts,GPC,Consumer Discretionary,Specialty Stores
@@ -105,6 +106,7 @@ Hayward,HAYW,Industrials,
 HCA Healthcare,HCA,Health Care,Health Care Facilities
 HEICO (Class A),HEI.A,Industrials,
 HEICO (Common),HEI,Industrials,
+Hershey's,HSY,Consumer Staples,Packaged Foods & Meats
 Hilton,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 Hologic,HOLX,Health Care,Health Care Equipment
 Honeywell,HON,Industrials,Industrial Conglomerates
@@ -113,7 +115,6 @@ HP Inc.,HPQ,Information Technology,"Technology Hardware, Storage & Peripherals"
 Huntsman,HUN,Materials,
 ICU Medical,ICUI,Health Care,Health Care Supplies
 IDEX,IEX,Industrials,Industrial Machinery & Supplies & Components
-Idexx Laboratories,IDXX,Health Care,Health Care Equipment
 Incyte,INCY,Health Care,Biotechnology
 Ingredion,INGR,Consumer Staples,Agricultural Products & Services
 Insulet,PODD,Health Care,
@@ -130,21 +131,17 @@ Keurig Dr Pepper,KDP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
 Kimberly-Clark,KMB,Consumer Staples,Household Products
 Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats
 Kroger,KR,Consumer Staples,Food Retail
-Lamb Weston,LW,Consumer Staples,Packaged Foods & Meats
 Las Vegas Sands,LVS,Consumer Discretionary,Casinos & Gaming
 Lennar (Class A),LEN,Consumer Discretionary,Homebuilding
 Lennar (Class B),LEN.B,Consumer Discretionary,Homebuilding
 Liberty Broadband (Series A),LBRDA,Communication Services,
 Liberty Formula 1 (Series A),FWONA,Communication Services,
-Liberty Formula 1 (Series C),FWONK,Communication Services,
 LKQ,LKQ,Consumer Discretionary,Distributors
 Lucid Motors,LCID,Consumer Discretionary,Automobile Manufacturers
 Lululemon,LULU,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
 Lumen,LUMN,Communication Services,Alternative Carriers
-Lyft,LYFT,Industrials,Passenger Ground Transportation
 Macy's,M,Consumer Discretionary,Department Stores
 Masco,MAS,Industrials,Building Products
-Masimo,MASI,Health Care,Health Care Equipment
 Mastercard,MA,Financials,Transaction & Payment Processing Services
 Mattel,MAT,Consumer Discretionary,Leisure Products
 McDonald's,MCD,Consumer Discretionary,Restaurants
@@ -158,6 +155,7 @@ Mohawk Industries,MHK,Consumer Discretionary,Home Furnishings
 Molina Healthcare,MOH,Health Care,Managed Health Care
 Molson Coors,TAP,Consumer Staples,Brewers
 Mondelez International,MDLZ,Consumer Staples,Packaged Foods & Meats
+Monster Beverage,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
 Morgan Stanley,MS,Financials,Investment Banking & Brokerage
 Mosaic,MOS,Materials,Fertilizers & Agricultural Chemicals
 Motorola Solutions,MSI,Information Technology,Communications Equipment
@@ -215,6 +213,7 @@ Starbucks,SBUX,Consumer Discretionary,Restaurants
 Stifel,SF,Financials,Investment Banking & Brokerage
 Stryker,SYK,Health Care,Health Care Equipment
 Sysco,SYY,Consumer Staples,Food Distributors
+Take-Two Interactive,TTWO,Communication Services,Interactive Home Entertainment
 Tandem Diabetes Care,TNDM,Health Care,Health Care Equipment
 Target,TGT,Consumer Staples,Consumer Staples Merchandise Retail
 Teladoc Health,TDOC,Health Care,
@@ -222,7 +221,6 @@ Teledyne,TDY,Industrials,Aerospace & Defense
 Teleflex,TFX,Health Care,Health Care Equipment
 Tempur Sealy International,TPX,Consumer Discretionary,Home Furnishings
 Tetra Tech,TTEK,Industrials,Environmental & Facilities Services
-TopBuild,BLD,Consumer Discretionary,
 Toro,TTC,Industrials,Agricultural & Farm Machinery
 Tractor Supply,TSCO,Consumer Discretionary,Specialty Stores
 Trane Technologies,TT,Industrials,Building Products
