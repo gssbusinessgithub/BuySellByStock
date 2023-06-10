@@ -1,5 +1,5 @@
-Name,Ticker,Price,Current Supply
-BNB,BNB-USD,"$40,616,539,597",$260.60
-Cardano,ADA-USD,"$10,204,801,953",$0.2924
-ICPolygon,MATIC-USD,"$6,746,415,650",$0.7262
-MCosmos,ATOM-USD,"$3,180,106,881",$9.17
+Name,Ticker,Price,Market Cap
+BNB,BNB-USD,$259.45,"$40,436,628,723"
+Cardano,ADA-USD,$0.2887,"$10,077,966,519"
+ICPolygon,MATIC-USD,$0.7147,"$6,639,126,030"
+MCosmos,ATOM-USD,$9.11,"$3,159,208,896"
