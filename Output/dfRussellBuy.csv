@@ -1,44 +1,34 @@
 Company,Ticker,Sector,Sub-Industry
 3M,MMM,Industrials,Industrial Conglomerates
-Abbott,ABT,Health Care,Health Care Equipment
 AbbVie,ABBV,Health Care,Pharmaceuticals
 ADM,ADM,Consumer Staples,Agricultural Products & Services
 Advance Auto Parts,AAP,Consumer Discretionary,Automotive Retail
 AGCO,AGCO,Industrials,Agricultural & Farm Machinery
 Agilon Health,AGL,Health Care,
-Alliant Energy,LNT,Utilities,Electric Utilities
 Allstate,ALL,Financials,Property & Casualty Insurance
 Ameren,AEE,Utilities,Multi-Utilities
-American Electric Power,AEP,Utilities,Electric Utilities
-Amgen,AMGN,Health Care,Biotechnology
-Analog Devices,ADI,Information Technology,Semiconductors
-Annaly,NLY,Financials,
 Antero Resources,AR,Energy,
 AppLovin,APP,Information Technology,
 Arch,ACGL,Financials,Reinsurance
 Arthur J. Gallagher & Co.,AJG,Financials,Insurance Brokers
 Ashland,ASH,Materials,Diversified Chemicals
-AT&T,T,Communication Services,Integrated Telecommunication Services
 AutoNation,AN,Consumer Discretionary,Automotive Retail
 AutoZone,AZO,Consumer Discretionary,Specialty Stores
 Ball,BALL,Materials,"Metal, Glass & Plastic Containers"
 Baxter,BAX,Health Care,Health Care Equipment
 Becton Dickinson,BDX,Health Care,Health Care Equipment
-Berkshire Hathaway,BRK.B,Financials,Multi-Sector Holdings
 Berry Global,BERY,Materials,
+Bio-Techne,TECH,Health Care,Life Sciences Tools & Services
 BJ's Wholesale Club,BJ,Consumer Staples,Hypermarkets & Super Centers
 Booking Holdings,BKNG,Consumer Discretionary,Internet & Direct Marketing Retail
 Boston Scientific,BSX,Health Care,Health Care Equipment
 Boyd Gaming,BYD,Consumer Discretionary,Casinos & Gaming
-Bristol Myers Squibb,BMY,Health Care,Health Care Distributors
-Brown–Forman (Class B),BF.B,Consumer Staples,Distillers & Vintners
 C.H. Robinson,CHRW,Industrials,Air Freight & Logistics
 Campbell's,CPB,Consumer Staples,Packaged Foods & Meats
-Carter's,CRI,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
 Caterpillar,CAT,Industrials,Construction Machinery & Heavy Transportation Equipment
 Centene,CNC,Health Care,Managed Health Care
+Certara,CERT,Health Care,
 CF Industries,CF,Materials,Fertilizers & Agricultural Chemicals
-Charter Communications,CHTR,Communication Services,Cable & Satellite
 Chemed Corporation,CHE,Health Care,Health Care Services
 Chesapeake Energy,CHK,Energy,
 Chevron,CVX,Energy,Integrated Oil & Gas
@@ -46,25 +36,20 @@ Choice Hotels,CHH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 Chubb,CB,Financials,Property & Casualty Insurance
 Church & Dwight,CHD,Consumer Staples,Household Products
 Churchill Downs Inc.,CHDN,Consumer Discretionary,Casinos & Gaming
-Citigroup,C,Financials,Diversified Banks
 Clorox,CLX,Consumer Staples,Household Products
-CME Group,CME,Financials,Financial Exchanges & Data
-CMS Energy,CMS,Utilities,Multi-Utilities
 Coca-Cola,KO,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
 Colgate-Palmolive,CL,Consumer Staples,Household Products
 Comcast,CMCSA,Communication Services,Cable & Satellite
 Con Edison,ED,Utilities,Electric Utilities
+Concentrix,CNXC,Information Technology,Data Processing & Outsourced Services
 CooperCompanies,COO,Health Care,Health Care Supplies
 Corteva,CTVA,Materials,Fertilizers & Agricultural Chemicals
 Coterra,CTRA,Energy,Oil & Gas Exploration & Production
-Coty,COTY,Consumer Staples,Personal Care Products
 Crane,CR,Industrials,Industrial Machinery & Supplies & Components
-D.R. Horton,DHI,Consumer Discretionary,Homebuilding
 DaVita,DVA,Health Care,Health Care Facilities
 John Deere,DE,Industrials,Agricultural & Farm Machinery
 Dentsply Sirona,XRAY,Health Care,Health Care Supplies
 Devon Energy,DVN,Energy,Oil & Gas Exploration & Production
-Dick's Sporting Goods,DKS,Consumer Discretionary,Specialty Stores
 Disney,DIS,Communication Services,Movies & Entertainment
 Dolby Laboratories,DLB,Information Technology,
 Dollar General,DG,Consumer Staples,Consumer Staples Merchandise Retail
@@ -76,27 +61,17 @@ Driven Brands,DRVN,Industrials,
 DT Midstream,DTM,Energy,
 Duke Energy,DUK,Utilities,Electric Utilities
 Dun & Bradstreet,DNB,Industrials,
-Edison International,EIX,Utilities,Electric Utilities
 Edwards Lifesciences,EW,Health Care,Health Care Equipment
 Elevance Health,ELV,Health Care,Managed Health Care
 Enovis,ENOV,Health Care,Health Care Equipment
-Entergy,ETR,Utilities,Electric Utilities
 EOG Resources,EOG,Energy,Oil & Gas Exploration & Production
 EPAM,EPAM,Information Technology,IT Consulting & Other Services
 Etsy,ETSY,Consumer Discretionary,Internet & Direct Marketing Retail
 Eversource,ES,Utilities,Multi-Utilities
 ExxonMobil,XOM,Energy,Integrated Oil & Gas
-FactSet,FDS,Financials,Financial Exchanges & Data
-Fiserv,FISV,Financials,Transaction & Payment Processing Services
-Five Below,FIVE,Consumer Discretionary,Specialty Stores
-Floor & Decor,FND,Consumer Discretionary,
 Flowers Foods,FLO,Consumer Staples,Packaged Foods & Meats
-FMC,FMC,Materials,Fertilizers & Agricultural Chemicals
 Fortune Brands Innovations,FBIN,Industrials,Building Products
-Freeport-McMoRan,FCX,Materials,Copper
-General Dynamics,GD,Industrials,Aerospace & Defense
 Gentex,GNTX,Consumer Discretionary,Automotive Parts & Equipment
-Genuine Parts,GPC,Consumer Discretionary,Specialty Stores
 Gilead,GILD,Health Care,Biotechnology
 Globus Medical,GMED,Health Care,Health Care Equipment
 Graphic Packaging,GPK,Materials,
@@ -109,8 +84,6 @@ HEICO (Common),HEI,Industrials,
 Hershey's,HSY,Consumer Staples,Packaged Foods & Meats
 Hilton,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 Hologic,HOLX,Health Care,Health Care Equipment
-Honeywell,HON,Industrials,Industrial Conglomerates
-Hormel Foods,HRL,Consumer Staples,Packaged Foods & Meats
 HP Inc.,HPQ,Information Technology,"Technology Hardware, Storage & Peripherals"
 Huntsman,HUN,Materials,
 ICU Medical,ICUI,Health Care,Health Care Supplies
@@ -124,7 +97,6 @@ International Flavors & Fragrances,IFF,Materials,Specialty Chemicals
 International Paper,IP,Materials,Paper & Plastic Packaging Products & Materials
 Intuit,INTU,Information Technology,Application Software
 ITT Inc.,ITT,Industrials,Industrial Machinery & Supplies & Components
-Jazz Pharmaceuticals,JAZZ,Health Care,Pharmaceuticals
 Johnson & Johnson,JNJ,Health Care,Pharmaceuticals
 Kellogg's,K,Consumer Staples,Packaged Foods & Meats
 Keurig Dr Pepper,KDP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
@@ -132,9 +104,6 @@ Kimberly-Clark,KMB,Consumer Staples,Household Products
 Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats
 Kroger,KR,Consumer Staples,Food Retail
 Las Vegas Sands,LVS,Consumer Discretionary,Casinos & Gaming
-Lennar (Class A),LEN,Consumer Discretionary,Homebuilding
-Lennar (Class B),LEN.B,Consumer Discretionary,Homebuilding
-Liberty Broadband (Series A),LBRDA,Communication Services,
 Liberty Formula 1 (Series A),FWONA,Communication Services,
 LKQ,LKQ,Consumer Discretionary,Distributors
 Lucid Motors,LCID,Consumer Discretionary,Automobile Manufacturers
@@ -148,63 +117,49 @@ McDonald's,MCD,Consumer Discretionary,Restaurants
 McKesson,MCK,Health Care,Health Care Distributors
 Medtronic,MDT,Health Care,Health Care Equipment
 Merck,MRK,Health Care,Pharmaceuticals
-Mettler Toledo,MTD,Health Care,Life Sciences Tools & Services
 Mirati Therapeutics,MRTX,Health Care,
-Mister Car Wash,MCW,Consumer Discretionary,
 Mohawk Industries,MHK,Consumer Discretionary,Home Furnishings
 Molina Healthcare,MOH,Health Care,Managed Health Care
-Molson Coors,TAP,Consumer Staples,Brewers
 Mondelez International,MDLZ,Consumer Staples,Packaged Foods & Meats
 Monster Beverage,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
-Morgan Stanley,MS,Financials,Investment Banking & Brokerage
 Mosaic,MOS,Materials,Fertilizers & Agricultural Chemicals
 Motorola Solutions,MSI,Information Technology,Communications Equipment
-Nasdaq,NDAQ,Financials,Financial Exchanges & Data
 Natera,NTRA,Health Care,
 Neurocrine,NBIX,Health Care,Biotechnology
-New Fortress Energy,NFE,Energy,
 New Relic,NEWR,Information Technology,
-Newell Brands,NWL,Consumer Discretionary,Housewares & Specialties
 Newmont,NEM,Materials,Gold
 Nexstar,NXST,Communication Services,
 Nike,NKE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
-NiSource,NI,Utilities,Multi-Utilities
-Novavax,NVAX,Health Care,
 NVR,NVR,Consumer Discretionary,Homebuilding
 OG&E,OGE,Utilities,Multi-Utilities
+Okta,OKTA,Information Technology,Application Software
 Old Republic,ORI,Financials,Property & Casualty Insurance
 Olin,OLN,Materials,Diversified Chemicals
 Ollie's,OLLI,Consumer Discretionary,General Merchandise Stores
 Omnicom,OMC,Communication Services,Advertising
-Paramount (Class A),PARAA,Communication Services,Movies & Entertainment
-PayPal,PYPL,Financials,Transaction & Payment Processing Services
 PepsiCo,PEP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
-Performance Food Group,PFGC,Consumer Staples,Food Distributors
 Perrigo,PRGO,Health Care,Pharmaceuticals
 Petco,WOOF,Consumer Discretionary,
 Philip Morris International,PM,Consumer Staples,Tobacco
 Pioneer Natural Resources,PXD,Energy,Oil & Gas Exploration & Production
 Planet Fitness,PLNT,Consumer Discretionary,
 Post Holdings,POST,Consumer Staples,Packaged Foods & Meats
-PPL,PPL,Utilities,Electric Utilities
 Premier,PINC,Health Care,
 Procter & Gamble,PG,Consumer Staples,Personal Care Products
 Progressive,PGR,Financials,Property & Casualty Insurance
-PulteGroup,PHM,Consumer Discretionary,Homebuilding
 PVH,PVH,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+QuidelOrtho,QDEL,Health Care,Health Care Supplies
 Ralph Lauren,RL,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
 Range Resources,RRC,Energy,Oil & Gas Exploration & Production
-Regeneron,REGN,Health Care,Biotechnology
 Resmed,RMD,Health Care,Health Care Equipment
 Revvity,RVTY,Health Care,Health Care Equipment
 Reynolds Consumer Products,REYN,Consumer Staples,
-Roper,ROP,Industrials,Industrial Conglomerates
 Royal Gold,RGLD,Materials,Precious Metals & Minerals
 Sealed Air,SEE,Materials,Paper & Plastic Packaging Products & Materials
 SentinelOne,S,Information Technology,
 Silgan Holdings,SLGN,Materials,"Metal, Glass & Plastic Containers"
+Smartsheet,SMAR,Information Technology,
 Smucker,SJM,Consumer Staples,Packaged Foods & Meats
-Snowflake,SNOW,Information Technology,
 Southern Copper,SCCO,Materials,
 Southwestern Energy,SWN,Energy,Oil & Gas Exploration & Production
 SSR Mining,SSRM,Materials,
@@ -218,7 +173,6 @@ Tandem Diabetes Care,TNDM,Health Care,Health Care Equipment
 Target,TGT,Consumer Staples,Consumer Staples Merchandise Retail
 Teladoc Health,TDOC,Health Care,
 Teledyne,TDY,Industrials,Aerospace & Defense
-Teleflex,TFX,Health Care,Health Care Equipment
 Tempur Sealy International,TPX,Consumer Discretionary,Home Furnishings
 Tetra Tech,TTEK,Industrials,Environmental & Facilities Services
 Toro,TTC,Industrials,Agricultural & Farm Machinery
@@ -226,29 +180,19 @@ Tractor Supply,TSCO,Consumer Discretionary,Specialty Stores
 Trane Technologies,TT,Industrials,Building Products
 Travelers,TRV,Financials,Property & Casualty Insurance
 U-Haul,UHAL,Industrials,
-Ubiquiti,UI,Information Technology,
 Ulta Beauty,ULTA,Consumer Discretionary,Specialty Stores
-Under Armour (Class A),UAA,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
-Under Armour (Class C),UA,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
 United Therapeutics,UTHR,Health Care,Biotechnology
-Universal Health Services,UHS,Health Care,Health Care Facilities
+Universal Display,OLED,Information Technology,Semiconductors
 Valmont Industries,VMI,Industrials,Industrial Machinery & Supplies & Components
+Valvoline,VVV,Materials,Commodity Chemicals
 Veeva Systems,VEEV,Health Care,
 Verizon,VZ,Communication Services,Integrated Telecommunication Services
-VF Corporation,VFC,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
-Viatris,VTRS,Health Care,Pharmaceuticals
 Victoria's Secret,VSCO,Consumer Discretionary,Apparel Retail
-Visa,V,Financials,Transaction & Payment Processing Services
 Warner Bros. Discovery,WBD,Communication Services,Broadcasting
 WEC Energy Group,WEC,Utilities,Electric Utilities
 West Pharmaceutical Services,WST,Health Care,Health Care Supplies
-WeWork,WE,Real Estate,
-White Mountains,WTM,Financials,
-Williams-Sonoma,WSM,Consumer Discretionary,Homefurnishing Retail
 WillScot Mobile Mini,WSC,Industrials,
 WWE,WWE,Communication Services,Movies & Entertainment
-Xcel Energy,XEL,Utilities,Multi-Utilities
-Xylem,XYL,Industrials,Industrial Machinery & Supplies & Components
 Yeti,YETI,Consumer Discretionary,Leisure Products
 Yum! Brands,YUM,Consumer Discretionary,Restaurants
 Zimmer Biomet,ZBH,Health Care,Health Care Equipment

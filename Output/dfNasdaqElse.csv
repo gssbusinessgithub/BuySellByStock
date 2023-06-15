@@ -3,11 +3,16 @@ Activision Blizzard,ATVI,Communication Services,Interactive Home Entertainment
 ADP,ADP,Information Technology,Data Processing & Outsourced Services
 Airbnb,ABNB,Consumer Discretionary,Internet & Direct Marketing Retail
 Align Technology,ALGN,Health Care,Health Care Supplies
+American Electric Power,AEP,Utilities,Electric Utilities
+Amgen,AMGN,Health Care,Biotechnology
+Analog Devices,ADI,Information Technology,Semiconductors
 Ansys,ANSS,Information Technology,Application Software
+ASML Holding,ASML,Information Technology,Semiconductor Equipment
 Atlassian,TEAM,Information Technology,Application Software
 Autodesk,ADSK,Information Technology,Application Software
 Baker Hughes,BKR,Energy,Oil & Gas Equipment & Services
 Biogen,BIIB,Health Care,Biotechnology
+Charter Communications,CHTR,Communication Services,Cable & Satellite
 Cintas,CTAS,Industrials,Diversified Support Services
 Cisco,CSCO,Information Technology,Communications Equipment
 Cognizant,CTSH,Information Technology,IT Consulting & Other Services
@@ -23,6 +28,7 @@ Fastenal,FAST,Industrials,Building Products
 Fortinet,FTNT,Information Technology,Systems Software
 GE HealthCare,GEHC,Health Care,Health Care Technology
 GlobalFoundries,GFS,Information Technology,Semiconductors
+Honeywell,HON,Industrials,Industrial Conglomerates
 Idexx Laboratories,IDXX,Health Care,Health Care Equipment
 "Illumina, Inc.",ILMN,Health Care,Life Sciences Tools & Services
 Intel,INTC,Information Technology,Semiconductors
@@ -30,14 +36,17 @@ Intuitive Surgical,ISRG,Health Care,Health Care Equipment
 Marriott International,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 MercadoLibre,MELI,Consumer Discretionary,Internet & Direct Marketing Retail
 Microchip Technology,MCHP,Information Technology,Semiconductors
+Micron Technology,MU,Information Technology,Semiconductors
 Moderna,MRNA,Health Care,Biotechnology
 NXP,NXPI,Information Technology,Semiconductors
 O'Reilly Automotive,ORLY,Consumer Discretionary,Specialty Stores
 Old Dominion Freight Line,ODFL,Industrials,Trucking
 Paccar,PCAR,Industrials,Construction Machinery & Heavy Trucks
 Paychex,PAYX,Information Technology,Data Processing & Outsourced Services
+PayPal,PYPL,Information Technology,Data Processing & Outsourced Services
 PDD Holdings,PDD,Consumer Discretionary,Internet & Direct Marketing Retail
 Qualcomm,QCOM,Information Technology,Semiconductors
+Regeneron,REGN,Health Care,Biotechnology
 Rivian,RIVN,Consumer Discretionary,Automobile Manufacturers
 Ross Stores,ROST,Consumer Discretionary,Apparel Retail
 Seagen,SGEN,Health Care,Biotechnology
@@ -47,4 +56,5 @@ Texas Instruments,TXN,Information Technology,Semiconductors
 Verisk,VRSK,Industrials,Research & Consulting Services
 Vertex Pharmaceuticals,VRTX,Health Care,Biotechnology
 Walgreens Boots Alliance,WBA,Consumer Staples,Drug Retail
+Xcel Energy,XEL,Utilities,Multi-Utilities
 Zoom Video Communications,ZM,Information Technology,Application Software

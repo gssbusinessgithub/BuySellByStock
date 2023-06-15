@@ -1,14 +1,9 @@
 Company,Ticker,Sector,Sub-Industry
-American Electric Power,AEP,Utilities,Electric Utilities
-Amgen,AMGN,Health Care,Biotechnology
-Analog Devices,ADI,Information Technology,Semiconductors
 AstraZeneca,AZN,Health Care,Pharmaceuticals
 Booking Holdings,BKNG,Consumer Discretionary,Internet & Direct Marketing Retail
-Charter Communications,CHTR,Communication Services,Cable & Satellite
 Comcast,CMCSA,Communication Services,Cable & Satellite
 Dollar Tree,DLTR,Consumer Discretionary,General Merchandise Stores
 Gilead Sciences,GILD,Health Care,Biotechnology
-Honeywell,HON,Industrials,Industrial Conglomerates
 Intuit,INTU,Information Technology,Application Software
 JD.com,JD,Consumer Discretionary,Internet & Direct Marketing Retail
 Keurig Dr Pepper,KDP,Consumer Staples,Soft Drinks
@@ -17,9 +12,6 @@ Lucid Motors,LCID,Consumer Discretionary,Automobile Manufacturers
 Lululemon,LULU,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
 Mondelēz International,MDLZ,Consumer Staples,Packaged Foods & Meats
 Monster Beverage,MNST,Consumer Staples,Soft Drinks
-PayPal,PYPL,Information Technology,Data Processing & Outsourced Services
 PepsiCo,PEP,Consumer Staples,Soft Drinks
-Regeneron,REGN,Health Care,Biotechnology
 Starbucks,SBUX,Consumer Discretionary,Restaurants
 Warner Bros. Discovery,WBD,Communication Services,Broadcasting
-Xcel Energy,XEL,Utilities,Multi-Utilities

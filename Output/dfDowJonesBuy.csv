@@ -1,8 +1,6 @@
 Company,Ticker,Industry,Index Weighting
 "[<th scope=""row""><a href=""/wiki/3M"" title=""3M"">3M</a>
 </th>]",MMM,Conglomerate,2.41%
-"[<th scope=""row""><a href=""/wiki/Amgen"" title=""Amgen"">Amgen</a>
-</th>]",AMGN,Biopharmaceutical,5.48%
 "[<th scope=""row""><a href=""/wiki/Caterpillar_Inc."" title=""Caterpillar Inc."">Caterpillar</a>
 </th>]",CAT,Construction and Mining,4.52%
 "[<th scope=""row""><a href=""/wiki/Chevron_Corporation"" title=""Chevron Corporation"">Chevron</a>
@@ -11,8 +9,6 @@ Company,Ticker,Industry,Index Weighting
 </th>]",KO,Drink industry,1.22%
 "[<th scope=""row""><a href=""/wiki/The_Walt_Disney_Company"" title=""The Walt Disney Company"">Disney</a>
 </th>]",DIS,Broadcasting and entertainment,1.89%
-"[<th scope=""row""><a href=""/wiki/Honeywell"" title=""Honeywell"">Honeywell</a>
-</th>]",HON,Conglomerate,4.17%
 "[<th scope=""row""><a href=""/wiki/Johnson_%26_Johnson"" title=""Johnson &amp; Johnson"">Johnson &amp; Johnson</a>
 </th>]",JNJ,Pharmaceutical industry,3.43%
 "[<th scope=""row""><a href=""/wiki/McDonald%27s"" title=""McDonald's"">McDonald's</a>
@@ -27,5 +23,3 @@ Company,Ticker,Industry,Index Weighting
 </th>]",TRV,Insurance,3.62%
 "[<th scope=""row""><a href=""/wiki/Verizon_Communications"" title=""Verizon Communications"">Verizon</a>
 </th>]",VZ,Telecommunications industry,0.73%
-"[<th scope=""row""><a href=""/wiki/Visa_Inc."" title=""Visa Inc."">Visa</a>
-</th>]",V,Financial services,4.16%

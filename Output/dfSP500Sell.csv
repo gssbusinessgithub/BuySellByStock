@@ -2,14 +2,21 @@ Company,Ticker,Sector,Sub-Industry
 Accenture,ACN,Information Technology,IT Consulting & Other Services
 Adobe Inc.,ADBE,Information Technology,Application Software
 Akamai,AKAM,Information Technology,Internet Services & Infrastructure
+Alaska Air Group,ALK,Industrials,Passenger Airlines
 Alphabet Inc. (Class A),GOOGL,Communication Services,Interactive Media & Services
 Alphabet Inc. (Class C),GOOG,Communication Services,Interactive Media & Services
 Amazon,AMZN,Consumer Discretionary,Internet & Direct Marketing Retail
 AMD,AMD,Information Technology,Semiconductors
+American Airlines Group,AAL,Industrials,Passenger Airlines
+American Express,AXP,Financials,Consumer Finance
+AmerisourceBergen,ABC,Health Care,Health Care Distributors
 Apple Inc.,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals"
 Applied Materials,AMAT,Information Technology,Semiconductor Materials & Equipment
+AvalonBay Communities,AVB,Real Estate,Residential REITs
 Broadcom Inc.,AVGO,Information Technology,Semiconductors
 Cadence Design Systems,CDNS,Information Technology,Application Software
+Capital One,COF,Financials,Consumer Finance
+CarMax,KMX,Consumer Discretionary,Automotive Retail
 Carnival,CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 Constellation Brands,STZ,Consumer Staples,Distillers & Vintners
 Constellation Energy,CEG,Utilities,Multi-Utilities
@@ -19,16 +26,14 @@ D.R. Horton,DHI,Consumer Discretionary,Homebuilding
 Darden Restaurants,DRI,Consumer Discretionary,Restaurants
 Delta Air Lines,DAL,Industrials,Passenger Airlines
 Discover Financial,DFS,Financials,Consumer Finance
+Ecolab,ECL,Materials,Specialty Chemicals
 EQT,EQT,Energy,Oil & Gas Exploration & Production
 Equifax,EFX,Industrials,Research & Consulting Services
-Fair Isaac,FICO,Information Technology,Application Software
 Gartner,IT,Information Technology,IT Consulting & Other Services
 KLA Corporation,KLAC,Information Technology,Semiconductor Materials & Equipment
 Lam Research,LRCX,Information Technology,Semiconductor Materials & Equipment
-Live Nation Entertainment,LYV,Communication Services,Movies & Entertainment
 Martin Marietta Materials,MLM,Materials,Construction Materials
 Meta Platforms,META,Communication Services,Interactive Media & Services
-Micron Technology,MU,Information Technology,Semiconductors
 Microsoft,MSFT,Information Technology,Systems Software
 Molson Coors Beverage Company,TAP,Consumer Staples,Brewers
 Moody's Corporation,MCO,Financials,Financial Exchanges & Data
@@ -39,10 +44,14 @@ Oracle Corporation,ORCL,Information Technology,Application Software
 PTC,PTC,Information Technology,Application Software
 PulteGroup,PHM,Consumer Discretionary,Homebuilding
 Quanta Services,PWR,Industrials,Construction & Engineering
+Rockwell Automation,ROK,Industrials,Electrical Components & Equipment
 Royal Caribbean Group,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+S&P Global,SPGI,Financials,Financial Exchanges & Data
 Salesforce,CRM,Information Technology,Application Software
 ServiceNow,NOW,Information Technology,Systems Software
 Synopsys,SNPS,Information Technology,Application Software
 Take-Two Interactive,TTWO,Communication Services,Interactive Home Entertainment
 "Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers
+United Airlines Holdings,UAL,Industrials,Passenger Airlines
 Vulcan Materials Company,VMC,Materials,Construction Materials
+W. W. Grainger,GWW,Industrials,Industrial Machinery & Supplies & Components
