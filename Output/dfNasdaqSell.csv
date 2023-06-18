@@ -1,25 +1,26 @@
 Company,Ticker,Sector,Sub-Industry
 Adobe Inc.,ADBE,Information Technology,Application Software
-Alphabet Inc. (Class A),GOOGL,Communication Services,Interactive Media & Services
-Alphabet Inc. (Class C),GOOG,Communication Services,Interactive Media & Services
 Amazon,AMZN,Consumer Discretionary,Internet & Direct Marketing Retail
 Advanced Micro Devices Inc.,AMD,Information Technology,Semiconductors
 Apple Inc.,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals"
 Applied Materials,AMAT,Information Technology,Semiconductor Equipment
+Autodesk,ADSK,Information Technology,Application Software
 Broadcom Inc.,AVGO,Information Technology,Semiconductors
 Cadence Design Systems,CDNS,Information Technology,Application Software
+Cisco,CSCO,Information Technology,Communications Equipment
 Constellation Energy,CEG,Utilities,Multi-Utilities
 Copart,CPRT,Industrials,Diversified Support Services
 CoStar Group,CSGP,Industrials,Research & Consulting Services
-CrowdStrike,CRWD,Information Technology,Application Software
+CSX Corporation,CSX,Industrials,Railroads
 Datadog,DDOG,Information Technology,Application Software
+Intel,INTC,Information Technology,Semiconductors
+Intuitive Surgical,ISRG,Health Care,Health Care Equipment
 KLA Corporation,KLAC,Information Technology,Semiconductor Equipment
-Lam Research,LRCX,Information Technology,Semiconductor Equipment
-Marvell Technology,MRVL,Information Technology,Application Software
 Meta Platforms,META,Communication Services,Interactive Media & Services
 Microsoft,MSFT,Information Technology,Systems Software
 Netflix,NFLX,Communication Services,Movies & Entertainment
 Nvidia,NVDA,Information Technology,Semiconductors
+Paccar,PCAR,Industrials,Construction Machinery & Heavy Trucks
 Palo Alto Networks,PANW,Information Technology,Application Software
 Synopsys,SNPS,Information Technology,Application Software
 "Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers
