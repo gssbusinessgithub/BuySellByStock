@@ -1,27 +1,32 @@
 Company,Ticker,Sector,Sub-Industry
 Advance Auto Parts,AAP,Consumer Discretionary,Automotive Retail
-AutoZone,AZO,Consumer Discretionary,Specialty Stores
+Akamai,AKAM,Information Technology,Internet Services & Infrastructure
+Altria,MO,Consumer Staples,Tobacco
+AMD,AMD,Information Technology,Semiconductors
+Arista Networks,ANET,Information Technology,Communications Equipment
 Bio-Techne,TECH,Health Care,Life Sciences Tools & Services
+Biogen,BIIB,Health Care,Biotechnology
 C.H. Robinson,CHRW,Industrials,Air Freight & Logistics
 Campbell Soup Company,CPB,Consumer Staples,Packaged Foods & Meats
-Colgate-Palmolive,CL,Consumer Staples,Household Products
-CooperCompanies,COO,Health Care,Health Care Supplies
+Chevron Corporation,CVX,Energy,Integrated Oil & Gas
 Diamondback Energy,FANG,Energy,Oil & Gas Exploration & Production
+Disney,DIS,Communication Services,Movies & Entertainment
 Dollar General,DG,Consumer Staples,Consumer Staples Merchandise Retail
-Dollar Tree,DLTR,Consumer Staples,Consumer Staples Merchandise Retail
+Electronic Arts,EA,Communication Services,Interactive Home Entertainment
 Elevance Health,ELV,Health Care,Managed Health Care
-EPAM Systems,EPAM,Information Technology,IT Consulting & Other Services
-Hershey's,HSY,Consumer Staples,Packaged Foods & Meats
+EOG Resources,EOG,Energy,Oil & Gas Exploration & Production
+ExxonMobil,XOM,Energy,Integrated Oil & Gas
+General Mills,GIS,Consumer Staples,Packaged Foods & Meats
 Hologic,HOLX,Health Care,Health Care Equipment
+IBM,IBM,Information Technology,IT Consulting & Other Services
+KeyCorp,KEY,Financials,Regional Banks
+Kinder Morgan,KMI,Energy,Oil & Gas Storage & Transportation
 Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats
-Merck & Co.,MRK,Health Care,Pharmaceuticals
-Monster Beverage,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
-Motorola Solutions,MSI,Information Technology,Communications Equipment
+Marathon Oil,MRO,Energy,Oil & Gas Exploration & Production
 "Nasdaq, Inc.",NDAQ,Financials,Financial Exchanges & Data
-PepsiCo,PEP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+Occidental Petroleum,OXY,Energy,Oil & Gas Exploration & Production
+Phillips 66,PSX,Energy,Oil & Gas Refining & Marketing
 Revvity,RVTY,Health Care,Health Care Equipment
-J.M. Smucker Company (The),SJM,Consumer Staples,Packaged Foods & Meats
 SolarEdge,SEDG,Information Technology,Semiconductor Materials & Equipment
 Take-Two Interactive,TTWO,Communication Services,Interactive Home Entertainment
 Target Corporation,TGT,Consumer Staples,Consumer Staples Merchandise Retail
-Ulta Beauty,ULTA,Consumer Discretionary,Specialty Stores

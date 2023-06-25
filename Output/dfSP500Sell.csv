@@ -17,20 +17,22 @@ AvalonBay Communities,AVB,Real Estate,Residential REITs
 Berkshire Hathaway,BRK.B,Financials,Multi-Sector Holdings
 Broadcom Inc.,AVGO,Information Technology,Semiconductors
 Broadridge Financial Solutions,BR,Industrials,Data Processing & Outsourced Services
+Brown & Brown,BRO,Financials,Insurance Brokers
 Cadence Design Systems,CDNS,Information Technology,Application Software
 Capital One,COF,Financials,Consumer Finance
 Cardinal Health,CAH,Health Care,Health Care Distributors
 CarMax,KMX,Consumer Discretionary,Automotive Retail
 Carnival,CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+Carrier Global,CARR,Industrials,Building Products
 Caterpillar Inc.,CAT,Industrials,Construction Machinery & Heavy Transportation Equipment
 Cisco,CSCO,Information Technology,Communications Equipment
 Constellation Brands,STZ,Consumer Staples,Distillers & Vintners
 Constellation Energy,CEG,Utilities,Multi-Utilities
-Copart,CPRT,Industrials,Diversified Support Services
 CoStar Group,CSGP,Industrials,Research & Consulting Services
 CSX,CSX,Industrials,Rail Transportation
 D.R. Horton,DHI,Consumer Discretionary,Homebuilding
 Darden Restaurants,DRI,Consumer Discretionary,Restaurants
+John Deere,DE,Industrials,Agricultural & Farm Machinery
 Delta Air Lines,DAL,Industrials,Passenger Airlines
 Discover Financial,DFS,Financials,Consumer Finance
 Eaton Corporation,ETN,Industrials,Electrical Components & Equipment
@@ -40,26 +42,32 @@ Equifax,EFX,Industrials,Research & Consulting Services
 Ford Motor Company,F,Consumer Discretionary,Automobile Manufacturers
 Fortive,FTV,Industrials,Industrial Machinery & Supplies & Components
 Gartner,IT,Information Technology,IT Consulting & Other Services
+HCA Healthcare,HCA,Health Care,Health Care Facilities
 Hewlett Packard Enterprise,HPE,Information Technology,"Technology Hardware, Storage & Peripherals"
 IBM,IBM,Information Technology,IT Consulting & Other Services
 Ingersoll Rand,IR,Industrials,Industrial Machinery & Supplies & Components
 Intel,INTC,Information Technology,Semiconductors
 Intuitive Surgical,ISRG,Health Care,Health Care Equipment
 KLA Corporation,KLAC,Information Technology,Semiconductor Materials & Equipment
+Lennar,LEN,Consumer Discretionary,Homebuilding
 Live Nation Entertainment,LYV,Communication Services,Movies & Entertainment
 Martin Marietta Materials,MLM,Materials,Construction Materials
 Match Group,MTCH,Communication Services,Interactive Media & Services
 McCormick & Company,MKC,Consumer Staples,Packaged Foods & Meats
+McKesson,MCK,Health Care,Health Care Distributors
 Meta Platforms,META,Communication Services,Interactive Media & Services
 Microsoft,MSFT,Information Technology,Systems Software
 Molson Coors Beverage Company,TAP,Consumer Staples,Brewers
 Moody's Corporation,MCO,Financials,Financial Exchanges & Data
+NetApp,NTAP,Information Technology,"Technology Hardware, Storage & Peripherals"
 Netflix,NFLX,Communication Services,Movies & Entertainment
 Nordson Corporation,NDSN,Industrials,Industrial Machinery & Supplies & Components
 Norwegian Cruise Line Holdings,NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 Nvidia,NVDA,Information Technology,Semiconductors
+NXP Semiconductors,NXPI,Information Technology,Semiconductors
 Oracle Corporation,ORCL,Information Technology,Application Software
 Paccar,PCAR,Industrials,Construction Machinery & Heavy Transportation Equipment
+Palo Alto Networks,PANW,Information Technology,Application Software
 Parker Hannifin,PH,Industrials,Industrial Machinery & Supplies & Components
 Pinnacle West,PNW,Utilities,Multi-Utilities
 PTC,PTC,Information Technology,Application Software
@@ -71,10 +79,14 @@ S&P Global,SPGI,Financials,Financial Exchanges & Data
 ServiceNow,NOW,Information Technology,Systems Software
 Sherwin-Williams,SHW,Materials,Specialty Chemicals
 Steris,STE,Health Care,Health Care Equipment
-Synopsys,SNPS,Information Technology,Application Software
+Take-Two Interactive,TTWO,Communication Services,Interactive Home Entertainment
+TE Connectivity,TEL,Information Technology,Electronic Manufacturing Services
 Teradyne,TER,Information Technology,Semiconductor Materials & Equipment
 "Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers
+TransDigm Group,TDG,Industrials,Aerospace & Defense
 United Airlines Holdings,UAL,Industrials,Passenger Airlines
+Universal Health Services,UHS,Health Care,Health Care Facilities
+Verisk,VRSK,Industrials,Research & Consulting Services
 Vulcan Materials Company,VMC,Materials,Construction Materials
 Walmart,WMT,Consumer Staples,Consumer Staples Merchandise Retail
 W. W. Grainger,GWW,Industrials,Industrial Machinery & Supplies & Components

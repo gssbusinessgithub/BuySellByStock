@@ -1,52 +1,69 @@
 Company,Ticker,Sector,Sub-Industry
 Advance Auto Parts,AAP,Consumer Discretionary,Automotive Retail
-Antero Resources,AR,Energy,
-AppLovin,APP,Information Technology,
-AutoZone,AZO,Consumer Discretionary,Specialty Stores
+Agilon Health,AGL,Health Care,
+Akamai,AKAM,Information Technology,Internet Services & Infrastructure
+Altria,MO,Consumer Staples,Tobacco
+AMD,AMD,Information Technology,Semiconductors
+Ardagh Metal Packaging,AMBP,Materials,
+Arista,ANET,Information Technology,Communications Equipment
 Bio-Techne,TECH,Health Care,Life Sciences Tools & Services
+Biogen,BIIB,Health Care,Biotechnology
+Brookfield Renewable,BEPC,Utilities,
 C.H. Robinson,CHRW,Industrials,Air Freight & Logistics
 Campbell's,CPB,Consumer Staples,Packaged Foods & Meats
 Certara,CERT,Health Care,
-Colgate-Palmolive,CL,Consumer Staples,Household Products
+ChargePoint,CHPT,Industrials,
+Chevron,CVX,Energy,Integrated Oil & Gas
+Choice Hotels,CHH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+Commerce Bancshares,CBSH,Financials,Regional Banks
 Concentrix,CNXC,Information Technology,Data Processing & Outsourced Services
-CooperCompanies,COO,Health Care,Health Care Supplies
+CrowdStrike,CRWD,Information Technology,Application Software
 Diamondback Energy,FANG,Energy,Oil & Gas Exploration & Production
+Disney,DIS,Communication Services,Movies & Entertainment
 Dollar General,DG,Consumer Staples,Consumer Staples Merchandise Retail
-Dollar Tree,DLTR,Consumer Staples,Consumer Staples Merchandise Retail
+Electronic Arts,EA,Communication Services,Interactive Home Entertainment
 Elevance Health,ELV,Health Care,Managed Health Care
-EPAM,EPAM,Information Technology,IT Consulting & Other Services
+EOG Resources,EOG,Energy,Oil & Gas Exploration & Production
 Exelixis,EXEL,Health Care,Biotechnology
-Guidewire,GWRE,Information Technology,
-Hershey's,HSY,Consumer Staples,Packaged Foods & Meats
+ExxonMobil,XOM,Energy,Integrated Oil & Gas
+First Citizens BancShares,FCNCA,Financials,
+General Mills,GIS,Consumer Staples,Packaged Foods & Meats
 Hologic,HOLX,Health Care,Health Care Equipment
+IBM,IBM,Information Technology,IT Consulting & Other Services
+ICU Medical,ICUI,Health Care,Health Care Supplies
+Keycorp,KEY,Financials,Regional Banks
+Kinder Morgan,KMI,Energy,Oil & Gas Storage & Transportation
 Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats
 Lucid Motors,LCID,Consumer Discretionary,Automobile Manufacturers
 Lumen,LUMN,Communication Services,Alternative Carriers
-Merck,MRK,Health Care,Pharmaceuticals
-Monster Beverage,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
-Motorola Solutions,MSI,Information Technology,Communications Equipment
+Marathon Oil,MRO,Energy,Oil & Gas Exploration & Production
+Mercury Systems,MRCY,Industrials,Electrical Components & Equipment
 Nasdaq,NDAQ,Financials,Financial Exchanges & Data
-New Relic,NEWR,Information Technology,
+National Fuel,NFG,Utilities,Gas Utilities
+Novavax,NVAX,Health Care,
+Occidental Petroleum,OXY,Energy,Oil & Gas Exploration & Production
 Okta,OKTA,Information Technology,Application Software
-PepsiCo,PEP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+Olin,OLN,Materials,Diversified Chemicals
+PDC Energy,PDCE,Energy,
+Phillips 66,PSX,Energy,Oil & Gas Refining & Marketing
 Pilgrim's Pride,PPC,Consumer Staples,Packaged Foods & Meats
-PVH,PVH,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+Prosperity Bancshares,PB,Financials,Regional Banks
 QuidelOrtho,QDEL,Health Care,Health Care Supplies
 Range Resources,RRC,Energy,Oil & Gas Exploration & Production
+Repligen,RGEN,Health Care,Biotechnology
 Revvity,RVTY,Health Care,Health Care Equipment
 Royal Gold,RGLD,Materials,Precious Metals & Minerals
 Royalty Pharma,RPRX,Health Care,
-SentinelOne,S,Information Technology,
+Seaboard,SEB,Consumer Staples,
 Smartsheet,SMAR,Information Technology,
-Smucker,SJM,Consumer Staples,Packaged Foods & Meats
 SSR Mining,SSRM,Materials,
 Take-Two Interactive,TTWO,Communication Services,Interactive Home Entertainment
-Tandem Diabetes Care,TNDM,Health Care,Health Care Equipment
 Target,TGT,Consumer Staples,Consumer Staples Merchandise Retail
-Ulta Beauty,ULTA,Consumer Discretionary,Specialty Stores
+UiPath,PATH,Information Technology,
 Ultragenyx,RARE,Health Care,
 Universal Display,OLED,Information Technology,Semiconductors
 Valvoline,VVV,Materials,Commodity Chemicals
 Viasat,VSAT,Information Technology,Communications Equipment
-WWE,WWE,Communication Services,Movies & Entertainment
+Vitesse Energy,VTS,Energy,
+White Mountains,WTM,Financials,
 Yeti,YETI,Consumer Discretionary,Leisure Products
