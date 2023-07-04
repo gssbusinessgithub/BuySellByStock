@@ -1,6 +1,8 @@
 Company,Ticker,Industry,Index Weighting
 "[<th scope=""row""><a href=""/wiki/3M"" title=""3M"">3M</a>
 </th>]",MMM,Conglomerate,2.41%
+"[<th scope=""row""><a href=""/wiki/American_Express"" title=""American Express"">American Express</a>
+</th>]",AXP,Financial services,3.02%
 "[<th scope=""row""><a href=""/wiki/Amgen"" title=""Amgen"">Amgen</a>
 </th>]",AMGN,Biopharmaceutical,5.48%
 "[<th scope=""row""><a href=""/wiki/Boeing"" title=""Boeing"">Boeing</a>
@@ -9,8 +11,6 @@ Company,Ticker,Industry,Index Weighting
 </th>]",KO,Drink industry,1.22%
 "[<th scope=""row""><a class=""mw-redirect"" href=""/wiki/Dow_Inc."" title=""Dow Inc."">Dow</a>
 </th>]",DOW,Chemical industry,0.98%
-"[<th scope=""row""><a href=""/wiki/Goldman_Sachs"" title=""Goldman Sachs"">Goldman Sachs</a>
-</th>]",GS,Financial services,7.36%
 "[<th scope=""row""><a href=""/wiki/The_Home_Depot"" title=""The Home Depot"">Home Depot</a>
 </th>]",HD,Home Improvement,6.27%
 "[<th scope=""row""><a href=""/wiki/Honeywell"" title=""Honeywell"">Honeywell</a>
@@ -29,13 +29,9 @@ Company,Ticker,Industry,Index Weighting
 </th>]",PG,Fast-moving consumer goods,2.86%
 "[<th scope=""row""><a href=""/wiki/Salesforce"" title=""Salesforce"">Salesforce</a>
 </th>]",CRM,Information technology,2.82%
-"[<th scope=""row""><a href=""/wiki/The_Travelers_Companies"" title=""The Travelers Companies"">Travelers</a>
-</th>]",TRV,Insurance,3.62%
 "[<th scope=""row""><a href=""/wiki/UnitedHealth_Group"" title=""UnitedHealth Group"">UnitedHealth Group</a>
 </th>]",UNH,Managed health care,10.29%
 "[<th scope=""row""><a href=""/wiki/Verizon_Communications"" title=""Verizon Communications"">Verizon</a>
 </th>]",VZ,Telecommunications industry,0.73%
 "[<th scope=""row""><a href=""/wiki/Visa_Inc."" title=""Visa Inc."">Visa</a>
 </th>]",V,Financial services,4.16%
-"[<th scope=""row""><a href=""/wiki/Walgreens_Boots_Alliance"" title=""Walgreens Boots Alliance"">Walgreens Boots Alliance</a>
-</th>]",WBA,Retailing,0.79%

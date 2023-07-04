@@ -1,8 +1,20 @@
 Company,Ticker,Sector,Sub-Industry
 Advanced Micro Devices Inc.,AMD,Information Technology,Semiconductors
+AstraZeneca,AZN,Health Care,Pharmaceuticals
 Biogen,BIIB,Health Care,Biotechnology
 CrowdStrike,CRWD,Information Technology,Application Software
 Diamondback Energy,FANG,Energy,Oil & Gas Exploration & Production
+eBay,EBAY,Consumer Discretionary,Internet & Direct Marketing Retail
 Electronic Arts,EA,Communication Services,Interactive Home Entertainment
+"Illumina, Inc.",ILMN,Health Care,Life Sciences Tools & Services
+JD.com,JD,Consumer Discretionary,Internet & Direct Marketing Retail
 Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats
 Lucid Motors,LCID,Consumer Discretionary,Automobile Manufacturers
+Moderna,MRNA,Health Care,Biotechnology
+Monster Beverage,MNST,Consumer Staples,Soft Drinks
+Regeneron,REGN,Health Care,Biotechnology
+Seagen,SGEN,Health Care,Biotechnology
+Synopsys,SNPS,Information Technology,Application Software
+Walgreens Boots Alliance,WBA,Consumer Staples,Drug Retail
+Warner Bros. Discovery,WBD,Communication Services,Broadcasting
+Zscaler,ZS,Information Technology,Application Software
