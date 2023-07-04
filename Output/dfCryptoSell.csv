@@ -1,4 +1,7 @@
 Name,Ticker,Price,Market Cap
-Bitcoin,BTC-USD,"$30,863.97","$599,109,203,816"
-CWrapped Bitcoin,WBTC-USD,"$30,872.41","$4,860,133,637"
-Bitcoin Cash,BCH-USD,$206.60,"$4,014,261,833"
+Bitcoin,BTC-USD,"$31,003.90","$601,974,209,907"
+TTether,USDT-USD,$1.00,"$83,351,309,751"
+Litecoin,LTC-USD,$107.83,"$7,901,599,461"
+Bitcoin Cash,BCH-USD,$287.83,"$5,594,955,280"
+CWrapped Bitcoin,WBTC-USD,"$30,949.06","$4,861,369,060"
+DBinance USD,BUSD-USD,$1.00,"$4,126,779,738"
