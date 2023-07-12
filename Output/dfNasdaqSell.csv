@@ -1,24 +1,23 @@
 Company,Ticker,Sector,Sub-Industry
-Adobe Inc.,ADBE,Information Technology,Application Software
+Align Technology,ALGN,Health Care,Health Care Supplies
 Apple Inc.,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals"
 Applied Materials,AMAT,Information Technology,Semiconductor Equipment
-Autodesk,ADSK,Information Technology,Application Software
-Broadcom Inc.,AVGO,Information Technology,Semiconductors
-Cisco,CSCO,Information Technology,Communications Equipment
-Constellation Energy,CEG,Utilities,Multi-Utilities
+Baker Hughes,BKR,Energy,Oil & Gas Equipment & Services
+Copart,CPRT,Industrials,Diversified Support Services
 CoStar Group,CSGP,Industrials,Research & Consulting Services
+Costco,COST,Consumer Staples,Hypermarkets & Super Centers
 CSX Corporation,CSX,Industrials,Railroads
-Intel,INTC,Information Technology,Semiconductors
+Fastenal,FAST,Industrials,Building Products
+Fortinet,FTNT,Information Technology,Systems Software
 Intuitive Surgical,ISRG,Health Care,Health Care Equipment
 Meta Platforms,META,Communication Services,Interactive Media & Services
-Microsoft,MSFT,Information Technology,Systems Software
-Netflix,NFLX,Communication Services,Movies & Entertainment
-Nvidia,NVDA,Information Technology,Semiconductors
+Microchip Technology,MCHP,Information Technology,Semiconductors
 NXP,NXPI,Information Technology,Semiconductors
 Old Dominion Freight Line,ODFL,Industrials,Trucking
+Onsemi,ON,Information Technology,Semiconductors
 Paccar,PCAR,Industrials,Construction Machinery & Heavy Trucks
 Palo Alto Networks,PANW,Information Technology,Application Software
+Ross Stores,ROST,Consumer Discretionary,Apparel Retail
+Sirius XM,SIRI,Communication Services,Broadcasting
 "Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers
-Verisk,VRSK,Industrials,Research & Consulting Services
 "Workday, Inc.",WDAY,Information Technology,Application Software
-Zscaler,ZS,Information Technology,Application Software

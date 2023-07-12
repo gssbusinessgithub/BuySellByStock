@@ -1,15 +1,3 @@
 Company,Ticker,Industry,Index Weighting
 "[<th scope=""row""><a href=""/wiki/Apple_Inc."" title=""Apple Inc."">Apple</a>
 </th>]",AAPL,Information technology,2.84%
-"[<th scope=""row""><a href=""/wiki/Caterpillar_Inc."" title=""Caterpillar Inc."">Caterpillar</a>
-</th>]",CAT,Construction and mining,4.52%
-"[<th scope=""row""><a href=""/wiki/Cisco"" title=""Cisco"">Cisco</a>
-</th>]",CSCO,Information technology,0.96%
-"[<th scope=""row""><a href=""/wiki/IBM"" title=""IBM"">IBM</a>
-</th>]",IBM,Information technology,2.86%
-"[<th scope=""row""><a href=""/wiki/Intel"" title=""Intel"">Intel</a>
-</th>]",INTC,Semiconductor industry,0.57%
-"[<th scope=""row""><a href=""/wiki/Microsoft"" title=""Microsoft"">Microsoft</a>
-</th>]",MSFT,Information technology,4.88%
-"[<th scope=""row""><a href=""/wiki/Walmart"" title=""Walmart"">Walmart</a>
-</th>]",WMT,Retailing,2.94%

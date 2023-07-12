@@ -1,7 +1,8 @@
 Company,Ticker,Sector,Sub-Industry
-Akamai,AKAM,Information Technology,Internet Services & Infrastructure
+3M,MMM,Industrials,Industrial Conglomerates
 Altria,MO,Consumer Staples,Tobacco
 AMD,AMD,Information Technology,Semiconductors
+Analog Devices,ADI,Information Technology,Semiconductors
 APA Corporation,APA,Energy,Oil & Gas Exploration & Production
 Arista Networks,ANET,Information Technology,Communications Equipment
 Bank of America,BAC,Financials,Diversified Banks
@@ -13,40 +14,47 @@ Citizens Financial Group,CFG,Financials,Regional Banks
 CME Group,CME,Financials,Financial Exchanges & Data
 Conagra Brands,CAG,Consumer Staples,Packaged Foods & Meats
 Coterra,CTRA,Energy,Oil & Gas Exploration & Production
+D.R. Horton,DHI,Consumer Discretionary,Homebuilding
 Devon Energy,DVN,Energy,Oil & Gas Exploration & Production
-Diamondback Energy,FANG,Energy,Oil & Gas Exploration & Production
 Disney,DIS,Communication Services,Movies & Entertainment
-eBay,EBAY,Consumer Discretionary,Internet & Direct Marketing Retail
-Electronic Arts,EA,Communication Services,Interactive Home Entertainment
+eBay,EBAY,Consumer Discretionary,
 Elevance Health,ELV,Health Care,Managed Health Care
 EOG Resources,EOG,Energy,Oil & Gas Exploration & Production
-Etsy,ETSY,Consumer Discretionary,Internet & Direct Marketing Retail
+Etsy,ETSY,Consumer Discretionary,
 ExxonMobil,XOM,Energy,Integrated Oil & Gas
 Garmin,GRMN,Consumer Discretionary,Consumer Electronics
 Gartner,IT,Information Technology,IT Consulting & Other Services
 General Mills,GIS,Consumer Staples,Packaged Foods & Meats
+Gilead Sciences,GILD,Health Care,Biotechnology
 Goldman Sachs,GS,Financials,Investment Banking & Brokerage
 Hershey's,HSY,Consumer Staples,Packaged Foods & Meats
 Hilton Worldwide,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+Hologic,HOLX,Health Care,Health Care Equipment
+Humana,HUM,Health Care,Managed Health Care
 IBM,IBM,Information Technology,IT Consulting & Other Services
 Illumina,ILMN,Health Care,Life Sciences Tools & Services
 KeyCorp,KEY,Financials,Regional Banks
 Kinder Morgan,KMI,Energy,Oil & Gas Storage & Transportation
 Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats
+Las Vegas Sands,LVS,Consumer Discretionary,Casinos & Gaming
 M&T Bank,MTB,Financials,Regional Banks
 Marathon Oil,MRO,Energy,Oil & Gas Exploration & Production
+Masco,MAS,Industrials,Building Products
 McCormick & Company,MKC,Consumer Staples,Packaged Foods & Meats
+Merck & Co.,MRK,Health Care,Pharmaceuticals
 Moderna,MRNA,Health Care,Biotechnology
 Monster Beverage,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
 Morgan Stanley,MS,Financials,Investment Banking & Brokerage
 "Nasdaq, Inc.",NDAQ,Financials,Financial Exchanges & Data
 Occidental Petroleum,OXY,Energy,Oil & Gas Exploration & Production
+Oracle Corporation,ORCL,Information Technology,Application Software
 Pfizer,PFE,Health Care,Pharmaceuticals
 Phillips 66,PSX,Energy,Oil & Gas Refining & Marketing
+Qorvo,QRVO,Information Technology,Semiconductors
 Regeneron,REGN,Health Care,Biotechnology
 J.M. Smucker Company (The),SJM,Consumer Staples,Packaged Foods & Meats
-SolarEdge,SEDG,Information Technology,Semiconductor Materials & Equipment
 Synopsys,SNPS,Information Technology,Application Software
 Travelers Companies (The),TRV,Financials,Property & Casualty Insurance
+UnitedHealth Group,UNH,Health Care,Managed Health Care
 Walgreens Boots Alliance,WBA,Consumer Staples,Drug Retail
 Warner Bros. Discovery,WBD,Communication Services,Broadcasting

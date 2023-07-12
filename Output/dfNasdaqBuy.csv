@@ -1,15 +1,17 @@
 Company,Ticker,Sector,Sub-Industry
 Advanced Micro Devices Inc.,AMD,Information Technology,Semiconductors
+Analog Devices,ADI,Information Technology,Semiconductors
+ASML Holding,ASML,Information Technology,Semiconductor Equipment
 AstraZeneca,AZN,Health Care,Pharmaceuticals
 Biogen,BIIB,Health Care,Biotechnology
 CrowdStrike,CRWD,Information Technology,Application Software
-Diamondback Energy,FANG,Energy,Oil & Gas Exploration & Production
 eBay,EBAY,Consumer Discretionary,Internet & Direct Marketing Retail
-Electronic Arts,EA,Communication Services,Interactive Home Entertainment
+Gilead Sciences,GILD,Health Care,Biotechnology
 "Illumina, Inc.",ILMN,Health Care,Life Sciences Tools & Services
 JD.com,JD,Consumer Discretionary,Internet & Direct Marketing Retail
 Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats
 Lucid Motors,LCID,Consumer Discretionary,Automobile Manufacturers
+Lululemon,LULU,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
 Moderna,MRNA,Health Care,Biotechnology
 Monster Beverage,MNST,Consumer Staples,Soft Drinks
 Regeneron,REGN,Health Care,Biotechnology

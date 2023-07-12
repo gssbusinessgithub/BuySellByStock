@@ -1,4 +1,6 @@
 Company,Ticker,Industry,Index Weighting
+"[<th scope=""row""><a href=""/wiki/3M"" title=""3M"">3M</a>
+</th>]",MMM,Conglomerate,2.41%
 "[<th scope=""row""><a href=""/wiki/Chevron_Corporation"" title=""Chevron Corporation"">Chevron</a>
 </th>]",CVX,Petroleum industry,3.50%
 "[<th scope=""row""><a href=""/wiki/The_Walt_Disney_Company"" title=""The Walt Disney Company"">Disney</a>
@@ -7,7 +9,11 @@ Company,Ticker,Industry,Index Weighting
 </th>]",GS,Financial services,7.36%
 "[<th scope=""row""><a href=""/wiki/IBM"" title=""IBM"">IBM</a>
 </th>]",IBM,Information technology,2.86%
+"[<th scope=""row""><a href=""/wiki/Merck_%26_Co."" title=""Merck &amp; Co."">Merck</a>
+</th>]",MRK,Pharmaceutical industry,2.10%
 "[<th scope=""row""><a href=""/wiki/The_Travelers_Companies"" title=""The Travelers Companies"">Travelers</a>
 </th>]",TRV,Insurance,3.62%
+"[<th scope=""row""><a href=""/wiki/UnitedHealth_Group"" title=""UnitedHealth Group"">UnitedHealth Group</a>
+</th>]",UNH,Managed health care,10.29%
 "[<th scope=""row""><a href=""/wiki/Walgreens_Boots_Alliance"" title=""Walgreens Boots Alliance"">Walgreens Boots Alliance</a>
 </th>]",WBA,Retailing,0.79%
