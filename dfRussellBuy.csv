@@ -1,0 +1,108 @@
+Company,Ticker,Sector,Sub-Industry
+Agilon Health,AGL,Health Care,
+Akamai,AKAM,Information Technology,Internet Services & Infrastructure
+Altria,MO,Consumer Staples,Tobacco
+AMD,AMD,Information Technology,Semiconductors
+APA Corporation,APA,Energy,Oil & Gas Exploration & Production
+Ardagh Metal Packaging,AMBP,Materials,
+Arista,ANET,Information Technology,Communications Equipment
+Bank of America,BAC,Financials,Diversified Banks
+Biogen,BIIB,Health Care,Biotechnology
+BOK Financial,BOKF,Financials,
+Boston Beer Company,SAM,Consumer Staples,Brewers
+Brookfield Renewable,BEPC,Utilities,
+Campbell's,CPB,Consumer Staples,Packaged Foods & Meats
+Capital One,COF,Financials,Consumer Finance
+Certara,CERT,Health Care,
+ChargePoint,CHPT,Industrials,
+Chevron,CVX,Energy,Integrated Oil & Gas
+Choice Hotels,CHH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+Citizens,CFG,Financials,Regional Banks
+CME Group,CME,Financials,Financial Exchanges & Data
+Commerce Bancshares,CBSH,Financials,Regional Banks
+Conagra Brands,CAG,Consumer Staples,Packaged Foods & Meats
+Coterra,CTRA,Energy,Oil & Gas Exploration & Production
+CrowdStrike,CRWD,Information Technology,Application Software
+Devon Energy,DVN,Energy,Oil & Gas Exploration & Production
+Diamondback Energy,FANG,Energy,Oil & Gas Exploration & Production
+Disney,DIS,Communication Services,Movies & Entertainment
+eBay,EBAY,Consumer Discretionary,Internet & Direct Marketing Retail
+Electronic Arts,EA,Communication Services,Interactive Home Entertainment
+Elevance Health,ELV,Health Care,Managed Health Care
+EOG Resources,EOG,Energy,Oil & Gas Exploration & Production
+Erie Indemnity,ERIE,Financials,
+Etsy,ETSY,Consumer Discretionary,Internet & Direct Marketing Retail
+ExxonMobil,XOM,Energy,Integrated Oil & Gas
+F&G Annuities & Life,FG,Financials,
+First Citizens BancShares,FCNCA,Financials,
+Garmin,GRMN,Consumer Discretionary,Consumer Electronics
+Gartner,IT,Information Technology,IT Consulting & Other Services
+General Mills,GIS,Consumer Staples,Packaged Foods & Meats
+Globant,GLOB,Information Technology,
+Goldman Sachs,GS,Financials,Investment Banking & Brokerage
+Hershey's,HSY,Consumer Staples,Packaged Foods & Meats
+Hilton,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+IBM,IBM,Information Technology,IT Consulting & Other Services
+ICU Medical,ICUI,Health Care,Health Care Supplies
+Illumina,ILMN,Health Care,Life Sciences Tools & Services
+Ionis,IONS,Health Care,
+Keycorp,KEY,Financials,Regional Banks
+Kinder Morgan,KMI,Energy,Oil & Gas Storage & Transportation
+KKR,KKR,Financials,
+Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats
+Lucid Motors,LCID,Consumer Discretionary,Automobile Manufacturers
+M&T Bank,MTB,Financials,Regional Banks
+Macy's,M,Consumer Discretionary,Department Stores
+Marathon Oil,MRO,Energy,Oil & Gas Exploration & Production
+Marriott Vacations Worldwide,VAC,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+McCormick,MKC,Consumer Staples,Packaged Foods & Meats
+Mercury Systems,MRCY,Industrials,Electrical Components & Equipment
+Moderna,MRNA,Health Care,Biotechnology
+Monster Beverage,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+Morgan Stanley,MS,Financials,Investment Banking & Brokerage
+Morningstar,MORN,Financials,
+Nasdaq,NDAQ,Financials,Financial Exchanges & Data
+National Fuel,NFG,Utilities,Gas Utilities
+New Fortress Energy,NFE,Energy,
+Nexstar,NXST,Communication Services,
+Novavax,NVAX,Health Care,
+Occidental Petroleum,OXY,Energy,Oil & Gas Exploration & Production
+Old Republic,ORI,Financials,Property & Casualty Insurance
+Olin,OLN,Materials,Diversified Chemicals
+Ollie's,OLLI,Consumer Discretionary,General Merchandise Stores
+PDC Energy,PDCE,Energy,
+Pfizer,PFE,Health Care,Pharmaceuticals
+Phillips 66,PSX,Energy,Oil & Gas Refining & Marketing
+Pilgrim's Pride,PPC,Consumer Staples,Packaged Foods & Meats
+Procore,PCOR,Information Technology,
+Prosperity Bancshares,PB,Financials,Regional Banks
+QuidelOrtho,QDEL,Health Care,Health Care Supplies
+Rayonier,RYN,Real Estate,Timber REITs
+Regeneron,REGN,Health Care,Biotechnology
+Repligen,RGEN,Health Care,Biotechnology
+Royal Gold,RGLD,Materials,Precious Metals & Minerals
+Royalty Pharma,RPRX,Health Care,
+Seaboard,SEB,Consumer Staples,
+Seagen,SGEN,Health Care,Biotechnology
+Shift4,FOUR,Information Technology,
+Smartsheet,SMAR,Information Technology,
+Smucker,SJM,Consumer Staples,Packaged Foods & Meats
+Snowflake,SNOW,Information Technology,
+SSR Mining,SSRM,Materials,
+Synopsys,SNPS,Information Technology,Application Software
+Texas Pacific Land,TPL,Energy,
+Thoughtworks,TWKS,Information Technology,
+Travelers,TRV,Financials,Property & Casualty Insurance
+UiPath,PATH,Information Technology,
+Ultragenyx,RARE,Health Care,
+Valvoline,VVV,Materials,Commodity Chemicals
+Viasat,VSAT,Information Technology,Communications Equipment
+Virtu Financial,VIRT,Financials,
+Vitesse Energy,VTS,Energy,
+Voya Financial,VOYA,Financials,Multi-Sector Holdings
+Walgreens Boots Alliance,WBA,Consumer Staples,Drug Retail
+Warner Bros. Discovery,WBD,Communication Services,Broadcasting
+White Mountains,WTM,Financials,
+Wyndham Hotels & Resorts,WH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+Yeti,YETI,Consumer Discretionary,Leisure Products
+Zscaler,ZS,Information Technology,Application Software
