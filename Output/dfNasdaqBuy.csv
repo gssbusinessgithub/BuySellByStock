@@ -1,12 +1,14 @@
 Company,Ticker,Sector,Sub-Industry
+Advanced Micro Devices Inc.,AMD,Information Technology,Semiconductors
 Analog Devices,ADI,Information Technology,Semiconductors
+Applied Materials,AMAT,Information Technology,Semiconductor Equipment
 ASML Holding,ASML,Information Technology,Semiconductor Equipment
 AstraZeneca,AZN,Health Care,Pharmaceuticals
 Biogen,BIIB,Health Care,Biotechnology
 Gilead Sciences,GILD,Health Care,Biotechnology
-JD.com,JD,Consumer Discretionary,Internet & Direct Marketing Retail
+Lam Research,LRCX,Information Technology,Semiconductor Equipment
 Lululemon,LULU,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
 Monster Beverage,MNST,Consumer Staples,Soft Drinks
 Palo Alto Networks,PANW,Information Technology,Application Software
-Seagen,SGEN,Health Care,Biotechnology
+"Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers
 Zscaler,ZS,Information Technology,Application Software

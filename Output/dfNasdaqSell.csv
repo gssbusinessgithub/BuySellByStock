@@ -1,36 +1,38 @@
 Company,Ticker,Sector,Sub-Industry
+Adobe Inc.,ADBE,Information Technology,Application Software
+ADP,ADP,Information Technology,Data Processing & Outsourced Services
 Airbnb,ABNB,Consumer Discretionary,Internet & Direct Marketing Retail
 Align Technology,ALGN,Health Care,Health Care Supplies
 Amazon,AMZN,Consumer Discretionary,Internet & Direct Marketing Retail
 Ansys,ANSS,Information Technology,Application Software
-Apple Inc.,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals"
-Applied Materials,AMAT,Information Technology,Semiconductor Equipment
 Baker Hughes,BKR,Energy,Oil & Gas Equipment & Services
+Booking Holdings,BKNG,Consumer Discretionary,Internet & Direct Marketing Retail
+Cintas,CTAS,Industrials,Diversified Support Services
 Cognizant,CTSH,Information Technology,IT Consulting & Other Services
+Comcast,CMCSA,Communication Services,Cable & Satellite
 Constellation Energy,CEG,Utilities,Multi-Utilities
 Copart,CPRT,Industrials,Diversified Support Services
-CoStar Group,CSGP,Industrials,Research & Consulting Services
 Costco,COST,Consumer Staples,Hypermarkets & Super Centers
-CSX Corporation,CSX,Industrials,Railroads
 Datadog,DDOG,Information Technology,Application Software
 DexCom,DXCM,Health Care,Health Care Equipment
+eBay,EBAY,Consumer Discretionary,Internet & Direct Marketing Retail
 Electronic Arts,EA,Communication Services,Interactive Home Entertainment
-Fastenal,FAST,Industrials,Building Products
 Fortinet,FTNT,Information Technology,Systems Software
 Idexx Laboratories,IDXX,Health Care,Health Care Equipment
+Intuit,INTU,Information Technology,Application Software
 Intuitive Surgical,ISRG,Health Care,Health Care Equipment
 Marriott International,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 Marvell Technology,MRVL,Information Technology,Application Software
 Meta Platforms,META,Communication Services,Interactive Media & Services
-Microchip Technology,MCHP,Information Technology,Semiconductors
+Microsoft,MSFT,Information Technology,Systems Software
+Netflix,NFLX,Communication Services,Movies & Entertainment
 Nvidia,NVDA,Information Technology,Semiconductors
 NXP,NXPI,Information Technology,Semiconductors
 Old Dominion Freight Line,ODFL,Industrials,Trucking
 Onsemi,ON,Information Technology,Semiconductors
 Paccar,PCAR,Industrials,Construction Machinery & Heavy Trucks
-Palo Alto Networks,PANW,Information Technology,Application Software
 Paychex,PAYX,Information Technology,Data Processing & Outsourced Services
-Ross Stores,ROST,Consumer Discretionary,Apparel Retail
 Sirius XM,SIRI,Communication Services,Broadcasting
-"Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers
+Synopsys,SNPS,Information Technology,Application Software
 The Trade Desk,TTD,Communication Services,
+"Workday, Inc.",WDAY,Information Technology,Application Software
