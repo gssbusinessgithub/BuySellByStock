@@ -4,9 +4,9 @@ ADP,ADP,Information Technology,Data Processing & Outsourced Services
 Airbnb,ABNB,Consumer Discretionary,Internet & Direct Marketing Retail
 Align Technology,ALGN,Health Care,Health Care Supplies
 Amazon,AMZN,Consumer Discretionary,Internet & Direct Marketing Retail
-Ansys,ANSS,Information Technology,Application Software
 Baker Hughes,BKR,Energy,Oil & Gas Equipment & Services
 Booking Holdings,BKNG,Consumer Discretionary,Internet & Direct Marketing Retail
+Charter Communications,CHTR,Communication Services,Cable & Satellite
 Cintas,CTAS,Industrials,Diversified Support Services
 Cognizant,CTSH,Information Technology,IT Consulting & Other Services
 Comcast,CMCSA,Communication Services,Cable & Satellite
@@ -15,14 +15,16 @@ Copart,CPRT,Industrials,Diversified Support Services
 Costco,COST,Consumer Staples,Hypermarkets & Super Centers
 Datadog,DDOG,Information Technology,Application Software
 DexCom,DXCM,Health Care,Health Care Equipment
+Diamondback Energy,FANG,Energy,Oil & Gas Exploration & Production
 eBay,EBAY,Consumer Discretionary,Internet & Direct Marketing Retail
 Electronic Arts,EA,Communication Services,Interactive Home Entertainment
 Fortinet,FTNT,Information Technology,Systems Software
 Idexx Laboratories,IDXX,Health Care,Health Care Equipment
 Intuit,INTU,Information Technology,Application Software
 Intuitive Surgical,ISRG,Health Care,Health Care Equipment
+Keurig Dr Pepper,KDP,Consumer Staples,Soft Drinks
+Lam Research,LRCX,Information Technology,Semiconductor Equipment
 Marriott International,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
-Marvell Technology,MRVL,Information Technology,Application Software
 Meta Platforms,META,Communication Services,Interactive Media & Services
 Microsoft,MSFT,Information Technology,Systems Software
 Netflix,NFLX,Communication Services,Movies & Entertainment
@@ -35,4 +37,5 @@ Paychex,PAYX,Information Technology,Data Processing & Outsourced Services
 Sirius XM,SIRI,Communication Services,Broadcasting
 Synopsys,SNPS,Information Technology,Application Software
 The Trade Desk,TTD,Communication Services,
+Verisk,VRSK,Industrials,Research & Consulting Services
 "Workday, Inc.",WDAY,Information Technology,Application Software
