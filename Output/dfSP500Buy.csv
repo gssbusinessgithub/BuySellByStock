@@ -1,70 +1,90 @@
 Company,Ticker,Sector,Sub-Industry
+Akamai,AKAM,Information Technology,Internet Services & Infrastructure
 Albemarle Corporation,ALB,Materials,Specialty Chemicals
 Allegion,ALLE,Industrials,Building Products
-Allstate,ALL,Financials,Property & Casualty Insurance
 AMD,AMD,Information Technology,Semiconductors
 American Express,AXP,Financials,Consumer Finance
 AmerisourceBergen,ABC,Health Care,Health Care Distributors
 Applied Materials,AMAT,Information Technology,Semiconductor Materials & Equipment
-Arthur J. Gallagher & Co.,AJG,Financials,Insurance Brokers
-AT&T,T,Communication Services,Integrated Telecommunication Services
+Aptiv,APTV,Consumer Discretionary,Automotive Parts & Equipment
+Arista Networks,ANET,Information Technology,Communications Equipment
+Autodesk,ADSK,Information Technology,Application Software
 AutoZone,AZO,Consumer Discretionary,Specialty Stores
 "Bath & Body Works, Inc.",BBWI,Consumer Discretionary,Specialty Stores
-Becton Dickinson,BDX,Health Care,Health Care Equipment
+Bio-Techne,TECH,Health Care,Life Sciences Tools & Services
 Biogen,BIIB,Health Care,Biotechnology
-Bristol Myers Squibb,BMY,Health Care,Pharmaceuticals
+BlackRock,BLK,Financials,Asset Management & Custody Banks
+BorgWarner,BWA,Consumer Discretionary,Automotive Parts & Equipment
+Boston Scientific,BSX,Health Care,Health Care Equipment
 CarMax,KMX,Consumer Discretionary,Automotive Retail
+CDW,CDW,Information Technology,Technology Distributors
+CenterPoint Energy,CNP,Utilities,Multi-Utilities
 Church & Dwight,CHD,Consumer Staples,Household Products
+Darden Restaurants,DRI,Consumer Discretionary,Restaurants
 Dexcom,DXCM,Health Care,Health Care Equipment
 Discover Financial,DFS,Financials,Consumer Finance
 Disney,DIS,Communication Services,Movies & Entertainment
 eBay,EBAY,Consumer Discretionary,Broadline Retail
 Edwards Lifesciences,EW,Health Care,Health Care Equipment
-EQT,EQT,Energy,Oil & Gas Exploration & Production
+Electronic Arts,EA,Communication Services,Interactive Home Entertainment
+Enphase,ENPH,Information Technology,Electronic Components
 Equifax,EFX,Industrials,Research & Consulting Services
-ExxonMobil,XOM,Energy,Integrated Oil & Gas
+Eversource,ES,Utilities,Multi-Utilities
 Ford Motor Company,F,Consumer Discretionary,Automobile Manufacturers
+Fortinet,FTNT,Information Technology,Systems Software
 Garmin,GRMN,Consumer Discretionary,Consumer Electronics
-General Mills,GIS,Consumer Staples,Packaged Foods & Meats
+Gartner,IT,Information Technology,IT Consulting & Other Services
+Generac,GNRC,Industrials,Electrical Components & Equipment
 Genuine Parts Company,GPC,Consumer Discretionary,Specialty Stores
+Gilead Sciences,GILD,Health Care,Biotechnology
 Hasbro,HAS,Consumer Discretionary,Leisure Products
 Hershey's,HSY,Consumer Staples,Packaged Foods & Meats
-Hologic,HOLX,Health Care,Health Care Equipment
 Honeywell,HON,Industrials,Industrial Conglomerates
 Insulet,PODD,Health Care,Health Care Equipment
 Interpublic Group of Companies (The),IPG,Communication Services,Advertising
+Johnson Controls,JCI,Industrials,Building Products
 Juniper Networks,JNPR,Information Technology,Communications Equipment
+Kellogg's,K,Consumer Staples,Packaged Foods & Meats
+Keysight,KEYS,Information Technology,Electronic Equipment & Instruments
 Lam Research,LRCX,Information Technology,Semiconductor Materials & Equipment
 Lamb Weston,LW,Consumer Staples,Packaged Foods & Meats
 LKQ Corporation,LKQ,Consumer Discretionary,Distributors
-Lockheed Martin,LMT,Industrials,Aerospace & Defense
+Mastercard,MA,Financials,Transaction & Payment Processing Services
 McDonald's,MCD,Consumer Discretionary,Restaurants
 McKesson,MCK,Health Care,Health Care Distributors
+Medtronic,MDT,Health Care,Health Care Equipment
 Merck & Co.,MRK,Health Care,Pharmaceuticals
 Meta Platforms,META,Communication Services,Interactive Media & Services
 Microsoft,MSFT,Information Technology,Systems Software
 Moderna,MRNA,Health Care,Biotechnology
+Mohawk Industries,MHK,Consumer Discretionary,Home Furnishings
+Moody's Corporation,MCO,Financials,Financial Exchanges & Data
+NetApp,NTAP,Information Technology,"Technology Hardware, Storage & Peripherals"
+Newmont,NEM,Materials,Gold
 News Corp (Class A),NWSA,Communication Services,Publishing
 News Corp (Class B),NWS,Communication Services,Publishing
-Northern Trust,NTRS,Financials,Asset Management & Custody Banks
 Omnicom Group,OMC,Communication Services,Advertising
+Palo Alto Networks,PANW,Information Technology,Application Software
+Paycom,PAYC,Information Technology,Application Software
+Pfizer,PFE,Health Care,Pharmaceuticals
 Quest Diagnostics,DGX,Health Care,Health Care Services
 Raytheon Technologies,RTX,Industrials,Aerospace & Defense
 S&P Global,SPGI,Financials,Financial Exchanges & Data
+Skyworks Solutions,SWKS,Information Technology,Semiconductors
 SolarEdge,SEDG,Information Technology,Semiconductor Materials & Equipment
 Southwest Airlines,LUV,Industrials,Passenger Airlines
-State Street Corporation,STT,Financials,Asset Management & Custody Banks
 Stryker Corporation,SYK,Health Care,Health Care Equipment
+Take-Two Interactive,TTWO,Communication Services,Interactive Home Entertainment
 Teledyne Technologies,TDY,Information Technology,Electronic Equipment & Instruments
 "Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers
-Tractor Supply,TSCO,Consumer Discretionary,Specialty Stores
+Texas Instruments,TXN,Information Technology,Semiconductors
 Tyler Technologies,TYL,Information Technology,Application Software
 Ulta Beauty,ULTA,Consumer Discretionary,Specialty Stores
 Universal Health Services,UHS,Health Care,Health Care Facilities
 Verisign,VRSN,Information Technology,Internet Services & Infrastructure
-Verizon,VZ,Communication Services,Integrated Telecommunication Services
 Warner Bros. Discovery,WBD,Communication Services,Broadcasting
 West Pharmaceutical Services,WST,Health Care,Health Care Supplies
 Whirlpool Corporation,WHR,Consumer Discretionary,Household Appliances
-Xylem Inc.,XYL,Industrials,Industrial Machinery & Supplies & Components
+Willis Towers Watson,WTW,Financials,Insurance Brokers
 Zebra Technologies,ZBRA,Information Technology,Electronic Equipment & Instruments
+Zimmer Biomet,ZBH,Health Care,Health Care Equipment
