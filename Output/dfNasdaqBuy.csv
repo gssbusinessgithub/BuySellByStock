@@ -1,24 +1,16 @@
 Company,Ticker,Sector,Sub-Industry
+Align Technology,ALGN,Health Care,Health Care Supplies
 Advanced Micro Devices Inc.,AMD,Information Technology,Semiconductors
 Applied Materials,AMAT,Information Technology,Semiconductor Equipment
 ASML Holding,ASML,Information Technology,Semiconductor Equipment
 Atlassian,TEAM,Information Technology,Application Software
-Autodesk,ADSK,Information Technology,Application Software
 Biogen,BIIB,Health Care,Biotechnology
-DexCom,DXCM,Health Care,Health Care Equipment
-eBay,EBAY,Consumer Discretionary,Internet & Direct Marketing Retail
-Electronic Arts,EA,Communication Services,Interactive Home Entertainment
-Enphase Energy,ENPH,Information Technology,Electronic Components
-Fortinet,FTNT,Information Technology,Systems Software
-Gilead Sciences,GILD,Health Care,Biotechnology
-GlobalFoundries,GFS,Information Technology,Semiconductors
-Honeywell,HON,Industrials,Industrial Conglomerates
+Cognizant,CTSH,Information Technology,IT Consulting & Other Services
+Fastenal,FAST,Industrials,Building Products
+KLA Corporation,KLAC,Information Technology,Semiconductor Equipment
 Lam Research,LRCX,Information Technology,Semiconductor Equipment
+Lucid Motors,LCID,Consumer Discretionary,Automobile Manufacturers
 Meta Platforms,META,Communication Services,Interactive Media & Services
-Microsoft,MSFT,Information Technology,Systems Software
-Moderna,MRNA,Health Care,Biotechnology
-Palo Alto Networks,PANW,Information Technology,Application Software
+Netflix,NFLX,Communication Services,Movies & Entertainment
 Seagen,SGEN,Health Care,Biotechnology
-"Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers
-Texas Instruments,TXN,Information Technology,Semiconductors
 Warner Bros. Discovery,WBD,Communication Services,Broadcasting

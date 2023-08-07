@@ -1,50 +1,31 @@
 Company,Ticker,Sector,Sub-Industry
-Align Technology,ALGN,Health Care,Health Care Supplies
+Alphabet Inc. (Class A),GOOGL,Communication Services,Interactive Media & Services
+Alphabet Inc. (Class C),GOOG,Communication Services,Interactive Media & Services
 Amazon,AMZN,Consumer Discretionary,Internet & Direct Marketing Retail
-American Electric Power,AEP,Utilities,Electric Utilities
-Amgen,AMGN,Health Care,Biotechnology
-Analog Devices,ADI,Information Technology,Semiconductors
 Ansys,ANSS,Information Technology,Application Software
-Apple Inc.,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals"
-AstraZeneca,AZN,Health Care,Pharmaceuticals
-Broadcom Inc.,AVGO,Information Technology,Semiconductors
-Cadence Design Systems,CDNS,Information Technology,Application Software
-Cisco,CSCO,Information Technology,Communications Equipment
-Cognizant,CTSH,Information Technology,IT Consulting & Other Services
+Autodesk,ADSK,Information Technology,Application Software
 Copart,CPRT,Industrials,Diversified Support Services
-CoStar Group,CSGP,Industrials,Research & Consulting Services
-CrowdStrike,CRWD,Information Technology,Application Software
-CSX Corporation,CSX,Industrials,Railroads
+DexCom,DXCM,Health Care,Health Care Equipment
+Diamondback Energy,FANG,Energy,Oil & Gas Exploration & Production
 Dollar Tree,DLTR,Consumer Discretionary,General Merchandise Stores
-Exelon,EXC,Utilities,Multi-Utilities
-Fastenal,FAST,Industrials,Building Products
-GE HealthCare,GEHC,Health Care,Health Care Technology
-"Illumina, Inc.",ILMN,Health Care,Life Sciences Tools & Services
-Intel,INTC,Information Technology,Semiconductors
+Enphase Energy,ENPH,Information Technology,Electronic Components
+Fortinet,FTNT,Information Technology,Systems Software
+GlobalFoundries,GFS,Information Technology,Semiconductors
 Intuitive Surgical,ISRG,Health Care,Health Care Equipment
 JD.com,JD,Consumer Discretionary,Internet & Direct Marketing Retail
-KLA Corporation,KLAC,Information Technology,Semiconductor Equipment
 Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats
-Lucid Motors,LCID,Consumer Discretionary,Automobile Manufacturers
 Lululemon,LULU,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
-Marvell Technology,MRVL,Information Technology,Application Software
-MercadoLibre,MELI,Consumer Discretionary,Internet & Direct Marketing Retail
-Microchip Technology,MCHP,Information Technology,Semiconductors
+Marriott International,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+Microsoft,MSFT,Information Technology,Systems Software
+Moderna,MRNA,Health Care,Biotechnology
 Mondelēz International,MDLZ,Consumer Staples,Packaged Foods & Meats
-Monster Beverage,MNST,Consumer Staples,Soft Drinks
-Netflix,NFLX,Communication Services,Movies & Entertainment
 Nvidia,NVDA,Information Technology,Semiconductors
 NXP,NXPI,Information Technology,Semiconductors
 O'Reilly Automotive,ORLY,Consumer Discretionary,Specialty Stores
-PayPal,PYPL,Information Technology,Data Processing & Outsourced Services
-PepsiCo,PEP,Consumer Staples,Soft Drinks
+PDD Holdings,PDD,Consumer Discretionary,Internet & Direct Marketing Retail
 Regeneron,REGN,Health Care,Biotechnology
-Ross Stores,ROST,Consumer Discretionary,Apparel Retail
+Sirius XM,SIRI,Communication Services,Broadcasting
 Starbucks,SBUX,Consumer Discretionary,Restaurants
 Synopsys,SNPS,Information Technology,Application Software
-T-Mobile US,TMUS,Communication Services,Wireless Telecommunication Services
-Vertex Pharmaceuticals,VRTX,Health Care,Biotechnology
-Walgreens Boots Alliance,WBA,Consumer Staples,Drug Retail
-Xcel Energy,XEL,Utilities,Multi-Utilities
+"Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers
 Zoom Video Communications,ZM,Information Technology,Application Software
-Zscaler,ZS,Information Technology,Application Software
