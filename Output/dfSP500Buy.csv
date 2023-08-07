@@ -1,50 +1,101 @@
 Company,Ticker,Sector,Sub-Industry
+AbbVie,ABBV,Health Care,Pharmaceuticals
+Advance Auto Parts,AAP,Consumer Discretionary,Automotive Retail
 Align Technology,ALGN,Health Care,Health Care Supplies
+Allstate,ALL,Financials,Property & Casualty Insurance
+Altria,MO,Consumer Staples,Tobacco
 AMD,AMD,Information Technology,Semiconductors
 AmerisourceBergen,ABC,Health Care,Health Care Distributors
 Amphenol,APH,Information Technology,Electronic Components
-Applied Materials,AMAT,Information Technology,Semiconductor Materials & Equipment
 Arista Networks,ANET,Information Technology,Communications Equipment
+AT&T,T,Communication Services,Integrated Telecommunication Services
 Axon Enterprise,AXON,Industrials,Aerospace & Defense
 "Bath & Body Works, Inc.",BBWI,Consumer Discretionary,Specialty Stores
+Bio-Techne,TECH,Health Care,Life Sciences Tools & Services
 Biogen,BIIB,Health Care,Biotechnology
-Boeing,BA,Industrials,Aerospace & Defense
+BlackRock,BLK,Financials,Asset Management & Custody Banks
+BNY Mellon,BK,Financials,Asset Management & Custody Banks
+Boston Properties,BXP,Real Estate,Office REITs
+Boston Scientific,BSX,Health Care,Health Care Equipment
+Bunge Limited,BG,Consumer Staples,Agricultural Products & Services
+Campbell Soup Company,CPB,Consumer Staples,Packaged Foods & Meats
 Cardinal Health,CAH,Health Care,Health Care Distributors
 CDW,CDW,Information Technology,Technology Distributors
-Charles River Laboratories,CRL,Health Care,Life Sciences Tools & Services
+Celanese,CE,Materials,Specialty Chemicals
+Chubb Limited,CB,Financials,Property & Casualty Insurance
+Cincinnati Financial,CINF,Financials,Property & Casualty Insurance
+Citigroup,C,Financials,Diversified Banks
 Clorox,CLX,Consumer Staples,Household Products
 Cognizant,CTSH,Information Technology,IT Consulting & Other Services
+Conagra Brands,CAG,Consumer Staples,Packaged Foods & Meats
 Corning Inc.,GLW,Information Technology,Electronic Components
-Digital Realty,DLR,Real Estate,Data Center REITs
+Corteva,CTVA,Materials,Fertilizers & Agricultural Chemicals
+Coterra,CTRA,Energy,Oil & Gas Exploration & Production
 Disney,DIS,Communication Services,Movies & Entertainment
+Dollar General,DG,Consumer Staples,Consumer Staples Merchandise Retail
+Dollar Tree,DLTR,Consumer Staples,Consumer Staples Merchandise Retail
 Eaton Corporation,ETN,Industrials,Electrical Components & Equipment
+Entergy,ETR,Utilities,Electric Utilities
 EPAM Systems,EPAM,Information Technology,IT Consulting & Other Services
+EQT,EQT,Energy,Oil & Gas Exploration & Production
 Estée Lauder Companies (The),EL,Consumer Staples,Personal Care Products
+ExxonMobil,XOM,Energy,Integrated Oil & Gas
+"F5, Inc.",FFIV,Information Technology,Communications Equipment
 Fastenal,FAST,Industrials,Building Products
-Garmin,GRMN,Consumer Discretionary,Consumer Electronics
+Federal Realty,FRT,Real Estate,Retail REITs
+First Solar,FSLR,Information Technology,Semiconductors
 General Mills,GIS,Consumer Staples,Packaged Foods & Meats
 Hasbro,HAS,Consumer Discretionary,Leisure Products
+Healthpeak,PEAK,Real Estate,Health Care REITs
+Hershey's,HSY,Consumer Staples,Packaged Foods & Meats
+HP Inc.,HPQ,Information Technology,"Technology Hardware, Storage & Peripherals"
+Humana,HUM,Health Care,Managed Health Care
 IDEX Corporation,IEX,Industrials,Industrial Machinery & Supplies & Components
 Ingersoll Rand,IR,Industrials,Industrial Machinery & Supplies & Components
+Insulet,PODD,Health Care,Health Care Equipment
 KLA Corporation,KLAC,Information Technology,Semiconductor Materials & Equipment
-Lam Research,LRCX,Information Technology,Semiconductor Materials & Equipment
+Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats
+Kroger,KR,Consumer Staples,Food Retail
+Marriott International,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
 McKesson,MCK,Health Care,Health Care Distributors
+Merck & Co.,MRK,Health Care,Pharmaceuticals
 Meta Platforms,META,Communication Services,Interactive Media & Services
+Moderna,MRNA,Health Care,Biotechnology
+Mondelez International,MDLZ,Consumer Staples,Packaged Foods & Meats
+Mosaic Company (The),MOS,Materials,Fertilizers & Agricultural Chemicals
 "Nasdaq, Inc.",NDAQ,Financials,Financial Exchanges & Data
 Netflix,NFLX,Communication Services,Movies & Entertainment
+Newell Brands,NWL,Consumer Discretionary,Housewares & Specialties
 News Corp (Class A),NWSA,Communication Services,Publishing
 News Corp (Class B),NWS,Communication Services,Publishing
 "Nike, Inc.",NKE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+Northern Trust,NTRS,Financials,Asset Management & Custody Banks
+Northrop Grumman,NOC,Industrials,Aerospace & Defense
 Norwegian Cruise Line Holdings,NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
-Otis Worldwide,OTIS,Industrials,Industrial Machinery & Supplies & Components
+O'Reilly Auto Parts,ORLY,Consumer Discretionary,Specialty Stores
+Organon & Co.,OGN,Health Care,Pharmaceuticals
 Paramount Global,PARA,Communication Services,Movies & Entertainment
+PNC Financial Services,PNC,Financials,Regional Banks
+PTC,PTC,Information Technology,Application Software
 Raytheon Technologies,RTX,Industrials,Aerospace & Defense
+Regeneron,REGN,Health Care,Biotechnology
+Regions Financial Corporation,RF,Financials,Regional Banks
+ResMed,RMD,Health Care,Health Care Equipment
 SBA Communications,SBAC,Real Estate,Telecom Tower REITs
 Seagate Technology,STX,Information Technology,"Technology Hardware, Storage & Peripherals"
 ServiceNow,NOW,Information Technology,Systems Software
+J.M. Smucker Company (The),SJM,Consumer Staples,Packaged Foods & Meats
 SolarEdge,SEDG,Information Technology,Semiconductor Materials & Equipment
+Starbucks,SBUX,Consumer Discretionary,Restaurants
 State Street Corporation,STT,Financials,Asset Management & Custody Banks
+Stryker Corporation,SYK,Health Care,Health Care Equipment
 "Tapestry, Inc.",TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+Tractor Supply,TSCO,Consumer Discretionary,Specialty Stores
+Ulta Beauty,ULTA,Consumer Discretionary,Specialty Stores
 Verizon,VZ,Communication Services,Integrated Telecommunication Services
+Walmart,WMT,Consumer Staples,Consumer Staples Merchandise Retail
 Warner Bros. Discovery,WBD,Communication Services,Broadcasting
+Western Digital,WDC,Information Technology,"Technology Hardware, Storage & Peripherals"
+Willis Towers Watson,WTW,Financials,Insurance Brokers
+Yum! Brands,YUM,Consumer Discretionary,Restaurants
 Zimmer Biomet,ZBH,Health Care,Health Care Equipment
